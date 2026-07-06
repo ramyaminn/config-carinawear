@@ -635,7 +635,7 @@
             "enableBackground": false,
             "productType": true,
             "borderInput": false,
-            "title": "اكبر خصومات في مصر",
+            "title": "اكبر خصومات في مصرررر",
             "type": "static",
             "textColor": "FF000000",
             "alignment": "center",
@@ -708,7 +708,8 @@
                 "backgroundColor": null,
                 "showDescription": false,
                 "keepDefaultTitle": false,
-                "productListAnimationConfig": null
+                "productListAnimationConfig": null,
+                "link": ""
               }
             ],
             "border": 0,
@@ -838,7 +839,8 @@
                 "featured": false,
                 "showText": false,
                 "description": null,
-                "productListAnimationConfig": null
+                "productListAnimationConfig": null,
+                "link": ""
               }
             ],
             "enableBackground": null,
@@ -958,7 +960,8 @@
                 "featured": false,
                 "showText": false,
                 "description": null,
-                "productListAnimationConfig": null
+                "productListAnimationConfig": null,
+                "link": ""
               }
             ],
             "enableBackground": null,
@@ -1078,7 +1081,8 @@
                 "featured": false,
                 "showText": false,
                 "description": null,
-                "productListAnimationConfig": null
+                "productListAnimationConfig": null,
+                "link": ""
               }
             ],
             "enableBackground": null,

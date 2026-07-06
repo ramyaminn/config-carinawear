@@ -1377,8 +1377,34 @@
   "Dashboard": {
     "Menus": [
       {
+        "id": "1783373595758",
         "title": "test",
-        "url": "https://carina.eg/collections/breathable-viscose"
+        "category": "",
+        "url": "https://carina.eg/collections/breathable-viscose",
+        "children": [
+          {
+            "id": "1783373619521",
+            "title": "test child",
+            "category": "",
+            "url": "https://carina.eg/collections/body-carina",
+            "children": [
+              {
+                "id": "1783373672870",
+                "title": "child 3",
+                "category": "",
+                "url": "https://carina.eg/collections/body-carina",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783373696952",
+            "title": "test 2",
+            "category": "",
+            "url": "https://carina.eg/collections/body-carina",
+            "children": []
+          }
+        ]
       }
     ]
   }

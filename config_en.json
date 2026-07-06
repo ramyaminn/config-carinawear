@@ -1373,5 +1373,13 @@
     "backgroundColor": null,
     "backgroundImage": null
   },
-  "Datetime": "2026-06-01T11:53:07.069441"
+  "Datetime": "2026-06-01T11:53:07.069441",
+  "Dashboard": {
+    "Menus": [
+      {
+        "title": "test",
+        "url": "https://carina.eg/collections/breathable-viscose"
+      }
+    ]
+  }
 }

@@ -1377,45 +1377,23 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1783373595758",
-        "title": "test",
+        "id": "1783376215098",
+        "title": "one",
         "category": "",
-        "url": "https://carina.eg/collections/breathable-viscose",
+        "url": "",
         "children": [
           {
-            "id": "1783373619521",
-            "title": "test child",
+            "id": "1783376224848",
+            "title": "add child one",
             "category": "",
-            "url": "https://carina.eg/collections/body-carina",
-            "children": [
-              {
-                "id": "1783373672870",
-                "title": "child 3",
-                "category": "",
-                "url": "https://carina.eg/collections/body-carina",
-                "children": []
-              },
-              {
-                "id": "1783374056380",
-                "title": "child 4",
-                "category": "",
-                "url": "",
-                "children": []
-              },
-              {
-                "id": "1783374136629",
-                "title": "test child 2",
-                "category": "",
-                "url": "",
-                "children": []
-              }
-            ]
+            "url": "",
+            "children": []
           },
           {
-            "id": "1783373696952",
-            "title": "test 2",
+            "id": "1783376235698",
+            "title": "icon pluse",
             "category": "",
-            "url": "https://carina.eg/collections/body-carina",
+            "url": "",
             "children": []
           }
         ]

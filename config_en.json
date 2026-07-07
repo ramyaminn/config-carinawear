@@ -1380,26 +1380,26 @@
         "id": "1783377362734",
         "title": "one",
         "category": "",
-        "url": "",
+        "handle": "",
         "children": [
           {
             "id": "1783377388817",
             "title": "one two ",
             "category": "",
-            "url": "",
+            "handle": "",
             "children": [
               {
                 "id": "1783377441200",
                 "title": "one two three",
                 "category": "",
-                "url": "",
+                "handle": "",
                 "children": []
               },
               {
                 "id": "1783377455649",
                 "title": "one two three 2",
                 "category": "",
-                "url": "",
+                "handle": "",
                 "children": []
               }
             ]
@@ -1408,14 +1408,14 @@
             "id": "1783377394284",
             "title": "one two 2",
             "category": "",
-            "url": "",
+            "handle": "",
             "children": []
           },
           {
             "id": "1783377483482",
             "title": "one two 3",
             "category": "",
-            "url": "",
+            "handle": "",
             "children": []
           }
         ]
@@ -1424,7 +1424,7 @@
         "id": "1783377373201",
         "title": "one 2",
         "category": "gid://shopify/Collection/482965618928",
-        "url": "gid://shopify/Collection/482965618928",
+        "handle": "basic-tops",
         "children": []
       }
     ]

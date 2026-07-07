@@ -1433,6 +1433,56 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783465712848",
+        "title": "ملابس البحر",
+        "category": "gid://shopify/Collection/420091986160",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783465765480",
+            "title": "توبات صيفية للبحر",
+            "category": "gid://shopify/Collection/460073304304",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465785662",
+            "title": "بنطلونات وجيبات للبحر",
+            "category": "gid://shopify/Collection/460073042160",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465801229",
+            "title": "فساتين حيوية للبحر",
+            "category": "gid://shopify/Collection/460072681712",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465820445",
+            "title": "كيمونو خفيف للبحر ",
+            "category": "gid://shopify/Collection/460072714480",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465835511",
+            "title": "أطقم لنسيم البحر",
+            "category": "gid://shopify/Collection/460073140464",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465908294",
+            "title": "إكسسوارات البحر",
+            "category": "gid://shopify/Collection/461334577392",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

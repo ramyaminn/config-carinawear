@@ -1377,8 +1377,26 @@
   "Dashboard": {
     "Menus": [
       {
-        "title": "تيست",
-        "url": "https://carina.eg/collections/breathable-viscose"
+        "id": "1783465368339",
+        "title": "شجعي مصر⚽",
+        "category": "gid://shopify/Collection/482965618928",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783465384538",
+            "title": "شجعي من البيت",
+            "category": "gid://shopify/Collection/482965192944",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465393688",
+            "title": "شجعي من كل مكان",
+            "category": "gid://shopify/Collection/482965258480",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

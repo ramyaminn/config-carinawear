@@ -1915,6 +1915,28 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783464979526",
+        "title": "Home & Beauty",
+        "category": "",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783464994343",
+            "title": "Aromatherapy Collection",
+            "category": "gid://shopify/Collection/459875451120",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465001109",
+            "title": "Carina Beauty",
+            "category": "gid://shopify/Collection/417208140016",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

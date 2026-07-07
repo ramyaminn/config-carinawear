@@ -1713,6 +1713,49 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783463857091",
+        "title": "Sleepwear",
+        "category": "gid://shopify/Collection/404701446384",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783463888040",
+            "title": "PJs & Robes",
+            "category": "gid://shopify/Collection/404701511920",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463895089",
+            "title": "Nightgowns",
+            "category": "gid://shopify/Collection/404701413616",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463898539",
+            "title": "Lingerie",
+            "category": "gid://shopify/Collection/417097744624",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463902472",
+            "title": "Bridal Essentials",
+            "category": "gid://shopify/Collection/480001032432",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463913122",
+            "title": "Girly Sleepwear",
+            "category": "gid://shopify/Collection/456670118128",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

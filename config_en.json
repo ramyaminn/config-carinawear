@@ -1864,6 +1864,57 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783464729117",
+        "title": "Accessories",
+        "category": "gid://shopify/Collection/404706197744",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783464752054",
+            "title": "Socks & Tights",
+            "category": "gid://shopify/Collection/452598825200",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783464770883",
+                "title": "Socks",
+                "category": "gid://shopify/Collection/476911829232",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783464783915",
+                "title": "Pantyhose",
+                "category": "gid://shopify/Collection/476837970160",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783464789498",
+                "title": "Girly Socks & Tights",
+                "category": "gid://shopify/Collection/452598825200",
+                "handle": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783464809264",
+            "title": "Scarves",
+            "category": "gid://shopify/Collection/417207976176",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783464823830",
+            "title": "Hijabi Add Ons",
+            "category": "gid://shopify/Collection/417207943408",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

@@ -1377,55 +1377,62 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1783377362734",
-        "title": "one",
-        "category": "",
+        "id": "1783434822694",
+        "title": "شجعي مصر⚽",
+        "category": "gid://shopify/Collection/482965618928",
         "handle": "",
         "children": [
           {
-            "id": "1783377388817",
-            "title": "one two ",
-            "category": "",
-            "handle": "",
-            "children": [
-              {
-                "id": "1783377441200",
-                "title": "one two three",
-                "category": "",
-                "handle": "",
-                "children": []
-              },
-              {
-                "id": "1783377455649",
-                "title": "one two three 2",
-                "category": "",
-                "handle": "",
-                "children": []
-              }
-            ]
-          },
-          {
-            "id": "1783377394284",
-            "title": "one two 2",
-            "category": "",
+            "id": "1783434867124",
+            "title": "شجعي من البيت",
+            "category": "gid://shopify/Collection/482965192944",
             "handle": "",
             "children": []
           },
           {
-            "id": "1783377483482",
-            "title": "one two 3",
-            "category": "",
+            "id": "1783434878857",
+            "title": "شجعي من كل مكان",
+            "category": "gid://shopify/Collection/482965258480",
             "handle": "",
             "children": []
           }
         ]
       },
       {
-        "id": "1783377373201",
-        "title": "one 255555",
-        "category": "gid://shopify/Collection/482965618928",
-        "handle": "basic-tops",
-        "children": []
+        "id": "1783435008219",
+        "title": "NEW Collection",
+        "category": "gid://shopify/Collection/412250833136",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783435073617",
+            "title": "New Tops",
+            "category": "gid://shopify/Collection/446234624240",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435084449",
+            "title": "New Bottoms",
+            "category": "gid://shopify/Collection/446234657008",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435100082",
+            "title": "New Dresses",
+            "category": "gid://shopify/Collection/446619091184",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435108531",
+            "title": "New Sleepwear",
+            "category": "gid://shopify/Collection/446234689776",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

@@ -1562,6 +1562,143 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783466313204",
+        "title": "ملابس",
+        "category": "gid://shopify/Collection/413456269552",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783466336721",
+            "title": "توبات ",
+            "category": "gid://shopify/Collection/404700627184",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783466347870",
+                "title": "تيشرتات",
+                "category": "gid://shopify/Collection/474397704432",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466376053",
+                "title": "قمصان",
+                "category": "gid://shopify/Collection/474397769968",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466388504",
+                "title": "كيمونو",
+                "category": "gid://shopify/Collection/418975187184",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466440505",
+                "title": "جواكت و فيستات",
+                "category": "gid://shopify/Collection/417207779568",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466458919",
+                "title": "توبات جيرلي",
+                "category": "gid://shopify/Collection/452598628592",
+                "handle": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783466504973",
+            "title": "بنطلونات وجيبات ",
+            "category": "gid://shopify/Collection/404700659952",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783466561736",
+                "title": "بنطلونات",
+                "category": "gid://shopify/Collection/480525123824",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466608671",
+                "title": "ليجنز وشورت",
+                "category": "gid://shopify/Collection/480525254896",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466626501",
+                "title": "جيبات",
+                "category": "gid://shopify/Collection/480525222128",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466634534",
+                "title": "بنطلونات وشورتات جيرلي",
+                "category": "gid://shopify/Collection/452598694128",
+                "handle": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783466664917",
+            "title": "جينز",
+            "category": "gid://shopify/Collection/417207812336",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783466680487",
+            "title": "فساتين",
+            "category": "gid://shopify/Collection/404704690416",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783466695149",
+            "title": "ملابس مريحة رياضية",
+            "category": "gid://shopify/Collection/417095024880",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783466710221",
+                "title": "توبات",
+                "category": "gid://shopify/Collection/404705968368",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466724682",
+                "title": "بنطلونات",
+                "category": "gid://shopify/Collection/404706033904",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466804287",
+                "title": "أطقم",
+                "category": "gid://shopify/Collection/404705935600",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783466813115",
+                "title": "ملابس رياضية",
+                "category": "gid://shopify/Collection/469246607600",
+                "handle": "",
+                "children": []
+              }
+            ]
+          }
+        ]
       }
     ]
   }

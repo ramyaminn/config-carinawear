@@ -1433,6 +1433,56 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783435409507",
+        "title": "Beachwear",
+        "category": "gid://shopify/Collection/420091986160",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783435425357",
+            "title": "Wave-Redy Tops",
+            "category": "gid://shopify/Collection/460073304304",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435447371",
+            "title": "Sandy Bottoms",
+            "category": "gid://shopify/Collection/460073042160",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435457037",
+            "title": "Fun Dresses",
+            "category": "gid://shopify/Collection/460072681712",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435469054",
+            "title": "Bright Kimonos",
+            "category": "gid://shopify/Collection/460072714480",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435479103",
+            "title": "Sea Breeze Sets",
+            "category": "gid://shopify/Collection/460073140464",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783435488886",
+            "title": "Beach Accessories",
+            "category": "gid://shopify/Collection/461334577392",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

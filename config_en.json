@@ -1562,6 +1562,157 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783463057027",
+        "title": "Clothing",
+        "category": "gid://shopify/Collection/413456269552",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783463073195",
+            "title": "Tops",
+            "category": "gid://shopify/Collection/404700627184",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783463092645",
+                "title": "T-Shirts",
+                "category": "gid://shopify/Collection/474397704432",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463105845",
+                "title": "Shirts",
+                "category": "gid://shopify/Collection/474397769968",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463116694",
+                "title": "Kimonos & Ponchos",
+                "category": "gid://shopify/Collection/418975187184",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463124696",
+                "title": "Jackets & Vests",
+                "category": "gid://shopify/Collection/417207779568",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463132428",
+                "title": "Girly Tops",
+                "category": "gid://shopify/Collection/452598628592",
+                "handle": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783463333177",
+            "title": "Bottoms",
+            "category": "gid://shopify/Collection/404700659952",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783463379225",
+                "title": "Pants",
+                "category": "gid://shopify/Collection/480525123824",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463385724",
+                "title": "Leggings & Shorts",
+                "category": "gid://shopify/Collection/480525254896",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463393674",
+                "title": "Skirts",
+                "category": "gid://shopify/Collection/480525222128",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463400374",
+                "title": "Girly Bottoms",
+                "category": "gid://shopify/Collection/452598694128",
+                "handle": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783463494956",
+            "title": "Jeans",
+            "category": "gid://shopify/Collection/417207812336",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463523615",
+            "title": "Dresses",
+            "category": "gid://shopify/Collection/404704690416",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463546904",
+            "title": "Sports & Loungewear",
+            "category": "gid://shopify/Collection/417095024880",
+            "handle": "",
+            "children": [
+              {
+                "id": "1783463576984",
+                "title": "Tops",
+                "category": "gid://shopify/Collection/404705968368",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463584651",
+                "title": "Bottoms",
+                "category": "gid://shopify/Collection/404706033904",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463592018",
+                "title": "Sets",
+                "category": "gid://shopify/Collection/404705935600",
+                "handle": "",
+                "children": []
+              },
+              {
+                "id": "1783463599218",
+                "title": "Workout",
+                "category": "gid://shopify/Collection/469246607600",
+                "handle": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1783463747550",
+            "title": "Matching Sets",
+            "category": "gid://shopify/Collection/444634890480",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783463767065",
+            "title": "Carina 🎀 Notfound",
+            "category": "gid://shopify/Collection/439871701232",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

@@ -1397,6 +1397,42 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783465491686",
+        "title": "التشكيلة الجديدة",
+        "category": "gid://shopify/Collection/412250833136",
+        "handle": "",
+        "children": [
+          {
+            "id": "1783465516452",
+            "title": "توبات جديدة",
+            "category": "gid://shopify/Collection/446234624240",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465572151",
+            "title": "بنطلونات و جيبات جديدة",
+            "category": "gid://shopify/Collection/446234657008",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465582100",
+            "title": "فساتين جديدة",
+            "category": "gid://shopify/Collection/446619091184",
+            "handle": "",
+            "children": []
+          },
+          {
+            "id": "1783465600249",
+            "title": "ملابس نوم جديدة",
+            "category": "gid://shopify/Collection/446234689776",
+            "handle": "",
+            "children": []
+          }
+        ]
       }
     ]
   }

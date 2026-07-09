@@ -145,7 +145,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 12,
+      "height": 20,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -213,7 +213,7 @@
       "order": "desc"
     },
     {
-      "height": 12,
+      "height": 20,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -340,7 +340,7 @@
       "categoryMenuShowDepth": false
     },
     {
-      "height": 12,
+      "height": 20,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -358,7 +358,7 @@
       "vMargin": 0,
       "hPadding": 6,
       "vPadding": 2,
-      "backgroundHeight": 400,
+      "backgroundHeight": 350,
       "cardDesign": "card",
       "titleLine": 1,
       "advancedParams": {},
@@ -397,12 +397,6 @@
       "enableAutoSliding": false,
       "orderby": "date",
       "order": "desc"
-    },
-    {
-      "height": 12,
-      "layout": "spacer",
-      "useLightColor": false,
-      "backgroundColor": null
     },
     {
       "category": "gid://shopify/Collection/476911829232",
@@ -417,7 +411,7 @@
       "vMargin": 0,
       "hPadding": 6,
       "vPadding": 2,
-      "backgroundHeight": 400,
+      "backgroundHeight": 350,
       "cardDesign": "card",
       "titleLine": 1,
       "advancedParams": {},
@@ -458,12 +452,6 @@
       "order": "desc"
     },
     {
-      "height": 12,
-      "layout": "spacer",
-      "useLightColor": false,
-      "backgroundColor": null
-    },
-    {
       "category": "gid://shopify/Collection/404703903984",
       "name": "Underwear",
       "layout": "twoColumn",
@@ -476,7 +464,7 @@
       "vMargin": 0,
       "hPadding": 6,
       "vPadding": 2,
-      "backgroundHeight": 400,
+      "backgroundHeight": 350,
       "cardDesign": "card",
       "titleLine": 1,
       "advancedParams": {},

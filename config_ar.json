@@ -145,7 +145,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 12,
+      "height": 20,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -225,7 +225,7 @@
       "columns": 2,
       "layout": "category",
       "marginLeft": 0,
-      "marginRight": 0,
+      "marginRight": 5,
       "marginTop": 0,
       "marginBottom": 0,
       "separateWidth": 24,
@@ -333,14 +333,14 @@
       "hideTitle": false,
       "originalColor": false,
       "noBackground": false,
-      "labelFontSize": 14,
+      "labelFontSize": 16,
       "animationConfig": null,
       "allowFilterMultipleCategory": false,
       "productCategoryMenuStyle": "menu",
       "categoryMenuShowDepth": false
     },
     {
-      "height": 12,
+      "height": 20,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -399,12 +399,6 @@
       "order": "desc"
     },
     {
-      "height": 12,
-      "layout": "spacer",
-      "useLightColor": false,
-      "backgroundColor": null
-    },
-    {
       "category": "gid://shopify/Collection/476911829232",
       "name": "شرابات",
       "layout": "twoColumn",
@@ -456,12 +450,6 @@
       "enableAutoSliding": false,
       "orderby": "date",
       "order": "desc"
-    },
-    {
-      "height": 12,
-      "layout": "spacer",
-      "useLightColor": false,
-      "backgroundColor": null
     },
     {
       "category": "gid://shopify/Collection/404703903984",

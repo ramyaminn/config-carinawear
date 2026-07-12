@@ -1195,7 +1195,8 @@
         "language",
         "order",
         "privacy",
-        "returnRefund"
+        "returnRefund",
+        "callUs"
       ],
       "styleItem": "flat",
       "defaultTab": false,

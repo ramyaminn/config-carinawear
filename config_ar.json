@@ -1194,7 +1194,8 @@
         "wishlist",
         "language",
         "order",
-        "privacy"
+        "privacy",
+        "returnRefund"
       ],
       "styleItem": "flat",
       "defaultTab": false,

@@ -1928,6 +1928,46 @@
           }
         ]
       }
-    ]
+    ],
+    "ReturnRefundPolicy": {
+      "title": "Return & Refund Policy",
+      "description": "Thanks for shopping at CarinaWear. If you are not entirely satisfied with your purchase, we're here to help.",
+      "sections": [
+        {
+          "title": "Returns",
+          "items": [
+            "Returns are accepted within 14 days of delivery.",
+            "Items must be unused and in their original condition.",
+            "Original packaging is required.",
+            "Proof of purchase is required.",
+            "Create a return request online or call Customer Care on 16678.",
+            "Our courier will arrange pickup."
+          ]
+        },
+        {
+          "title": "Refunds",
+          "items": [
+            "Refunds are processed within 7 working days.",
+            "Card payments are refunded to the original card.",
+            "Cash on Delivery refunds are sent via E-wallet or Bank Transfer.",
+            "Buy Now Pay Later refunds are returned to the same provider.",
+            "No partial refunds for installment purchases."
+          ]
+        },
+        {
+          "title": "Damaged or Incorrect Items",
+          "description": "Faulty, damaged or incorrectly supplied products can be replaced or fully refunded, including delivery charges where applicable. Products must be returned within 30 days."
+        },
+        {
+          "title": "Non-returnable Products",
+          "items": [
+            "Underwear",
+            "Corsets",
+            "Socks & Tights"
+          ]
+        }
+      ],
+      "footer": "❤️ Happy Carina Shopping!"
+    }
   }
 }

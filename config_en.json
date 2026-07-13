@@ -152,7 +152,7 @@
     },
     {
       "category": "gid://shopify/Collection/412250833136",
-      "name": "New Arrivals",
+      "name": "New Arrivalsss",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -1370,20 +1370,17 @@
         "id": "1783434822694",
         "title": "شجعي مصر⚽",
         "category": "gid://shopify/Collection/482965618928",
-        "handle": "",
         "children": [
           {
             "id": "1783434867124",
             "title": "شجعي من البيت",
             "category": "gid://shopify/Collection/482965192944",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783434878857",
             "title": "شجعي من كل مكان",
             "category": "gid://shopify/Collection/482965258480",
-            "handle": "",
             "children": []
           }
         ]
@@ -1392,34 +1389,29 @@
         "id": "1783435008219",
         "title": "NEW Collection",
         "category": "gid://shopify/Collection/412250833136",
-        "handle": "",
         "children": [
           {
             "id": "1783435073617",
             "title": "New Tops",
             "category": "gid://shopify/Collection/446234624240",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435084449",
             "title": "New Bottoms",
             "category": "gid://shopify/Collection/446234657008",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435100082",
             "title": "New Dresses",
             "category": "gid://shopify/Collection/446619091184",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435108531",
             "title": "New Sleepwear",
             "category": "gid://shopify/Collection/446234689776",
-            "handle": "",
             "children": []
           }
         ]
@@ -1428,48 +1420,41 @@
         "id": "1783435409507",
         "title": "Beachwear",
         "category": "gid://shopify/Collection/420091986160",
-        "handle": "",
         "children": [
           {
             "id": "1783435425357",
             "title": "Wave-Redy Tops",
             "category": "gid://shopify/Collection/460073304304",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435447371",
             "title": "Sandy Bottoms",
             "category": "gid://shopify/Collection/460073042160",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435457037",
             "title": "Fun Dresses",
             "category": "gid://shopify/Collection/460072681712",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435469054",
             "title": "Bright Kimonos",
             "category": "gid://shopify/Collection/460072714480",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435479103",
             "title": "Sea Breeze Sets",
             "category": "gid://shopify/Collection/460073140464",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435488886",
             "title": "Beach Accessories",
             "category": "gid://shopify/Collection/461334577392",
-            "handle": "",
             "children": []
           }
         ]
@@ -1478,33 +1463,28 @@
         "id": "1783435680647",
         "title": "Basic Tops",
         "category": "gid://shopify/Collection/417094992112",
-        "handle": "",
         "children": [
           {
             "id": "1783435694645",
             "title": "Carina Basics",
             "category": "gid://shopify/Collection/458261594352",
-            "handle": "",
             "children": [
               {
                 "id": "1783435706465",
                 "title": "Breathable Viscose",
                 "category": "gid://shopify/Collection/458280599792",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783435709927",
                 "title": "Egyptian Cotton",
                 "category": "gid://shopify/Collection/458280534256",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783435718177",
                 "title": "Microfiber Magic",
                 "category": "gid://shopify/Collection/458281222384",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1513,42 +1493,36 @@
             "id": "1783435848608",
             "title": "Tank Top",
             "category": "gid://shopify/Collection/446236229872",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435857140",
             "title": "Short Sleeve",
             "category": "gid://shopify/Collection/446236197104",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435865063",
             "title": "Cropped",
             "category": "gid://shopify/Collection/446236295408",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435872189",
             "title": "Long Sleeve",
             "category": "gid://shopify/Collection/446236131568",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435879605",
             "title": "Seamless",
             "category": "gid://shopify/Collection/458317463792",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783435888805",
             "title": "Carina 🎀 Notfound",
             "category": "gid://shopify/Collection/439871701232",
-            "handle": "",
             "children": []
           }
         ]
@@ -1557,47 +1531,40 @@
         "id": "1783463057027",
         "title": "Clothing",
         "category": "gid://shopify/Collection/413456269552",
-        "handle": "",
         "children": [
           {
             "id": "1783463073195",
             "title": "Tops",
             "category": "gid://shopify/Collection/404700627184",
-            "handle": "",
             "children": [
               {
                 "id": "1783463092645",
                 "title": "T-Shirts",
                 "category": "gid://shopify/Collection/474397704432",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463105845",
                 "title": "Shirts",
                 "category": "gid://shopify/Collection/474397769968",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463116694",
                 "title": "Kimonos & Ponchos",
                 "category": "gid://shopify/Collection/418975187184",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463124696",
                 "title": "Jackets & Vests",
                 "category": "gid://shopify/Collection/417207779568",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463132428",
                 "title": "Girly Tops",
                 "category": "gid://shopify/Collection/452598628592",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1606,34 +1573,29 @@
             "id": "1783463333177",
             "title": "Bottoms",
             "category": "gid://shopify/Collection/404700659952",
-            "handle": "",
             "children": [
               {
                 "id": "1783463379225",
                 "title": "Pants",
                 "category": "gid://shopify/Collection/480525123824",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463385724",
                 "title": "Leggings & Shorts",
                 "category": "gid://shopify/Collection/480525254896",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463393674",
                 "title": "Skirts",
                 "category": "gid://shopify/Collection/480525222128",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463400374",
                 "title": "Girly Bottoms",
                 "category": "gid://shopify/Collection/452598694128",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1642,48 +1604,41 @@
             "id": "1783463494956",
             "title": "Jeans",
             "category": "gid://shopify/Collection/417207812336",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463523615",
             "title": "Dresses",
             "category": "gid://shopify/Collection/404704690416",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463546904",
             "title": "Sports & Loungewear",
             "category": "gid://shopify/Collection/417095024880",
-            "handle": "",
             "children": [
               {
                 "id": "1783463576984",
                 "title": "Tops",
                 "category": "gid://shopify/Collection/404705968368",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463584651",
                 "title": "Bottoms",
                 "category": "gid://shopify/Collection/404706033904",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463592018",
                 "title": "Sets",
                 "category": "gid://shopify/Collection/404705935600",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783463599218",
                 "title": "Workout",
                 "category": "gid://shopify/Collection/469246607600",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1692,14 +1647,12 @@
             "id": "1783463747550",
             "title": "Matching Sets",
             "category": "gid://shopify/Collection/444634890480",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463767065",
             "title": "Carina 🎀 Notfound",
             "category": "gid://shopify/Collection/439871701232",
-            "handle": "",
             "children": []
           }
         ]
@@ -1708,41 +1661,35 @@
         "id": "1783463857091",
         "title": "Sleepwear",
         "category": "gid://shopify/Collection/404701446384",
-        "handle": "",
         "children": [
           {
             "id": "1783463888040",
             "title": "PJs & Robes",
             "category": "gid://shopify/Collection/404701511920",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463895089",
             "title": "Nightgowns",
             "category": "gid://shopify/Collection/404701413616",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463898539",
             "title": "Lingerie",
             "category": "gid://shopify/Collection/417097744624",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463902472",
             "title": "Bridal Essentials",
             "category": "gid://shopify/Collection/480001032432",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783463913122",
             "title": "Girly Sleepwear",
             "category": "gid://shopify/Collection/456670118128",
-            "handle": "",
             "children": []
           }
         ]
@@ -1751,68 +1698,58 @@
         "id": "1783464137446",
         "title": "Underwear",
         "category": "gid://shopify/Collection/404703903984",
-        "handle": "",
         "children": [
           {
             "id": "1783464167766",
             "title": "Bras",
             "category": "gid://shopify/Collection/404704035056",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783464209914",
             "title": "Panties",
             "category": "gid://shopify/Collection/404704100592",
-            "handle": "",
             "children": [
               {
                 "id": "1783464234449",
                 "title": "Bikini",
                 "category": "gid://shopify/Collection/474444464368",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464290662",
                 "title": "Brief",
                 "category": "gid://shopify/Collection/474444497136",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464313961",
                 "title": "Full Brief",
                 "category": "gid://shopify/Collection/474444562672",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464340677",
                 "title": "Short",
                 "category": "gid://shopify/Collection/480487440624",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464366060",
                 "title": "Thong",
                 "category": "gid://shopify/Collection/480487473392",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464395526",
                 "title": "SET",
                 "category": "gid://shopify/Collection/480487506160",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464404675",
                 "title": "Girly Panties",
                 "category": "gid://shopify/Collection/452598792432",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1821,20 +1758,17 @@
             "id": "1783464471192",
             "title": "Multipacks",
             "category": "gid://shopify/Collection/412524118256",
-            "handle": "",
             "children": [
               {
                 "id": "1783464512542",
                 "title": "Women Multipacks",
                 "category": "gid://shopify/Collection/480519094512",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464524407",
                 "title": "Girly Multipacks",
                 "category": "gid://shopify/Collection/480519028976",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1843,14 +1777,12 @@
             "id": "1783464578672",
             "title": "Shapewear",
             "category": "gid://shopify/Collection/404701741296",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783464586389",
             "title": "Slips",
             "category": "gid://shopify/Collection/411911815408",
-            "handle": "",
             "children": []
           }
         ]
@@ -1859,33 +1791,28 @@
         "id": "1783464729117",
         "title": "Accessories",
         "category": "gid://shopify/Collection/404706197744",
-        "handle": "",
         "children": [
           {
             "id": "1783464752054",
             "title": "Socks & Tights",
             "category": "gid://shopify/Collection/452598825200",
-            "handle": "",
             "children": [
               {
                 "id": "1783464770883",
                 "title": "Socks",
                 "category": "gid://shopify/Collection/476911829232",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464783915",
                 "title": "Pantyhose",
                 "category": "gid://shopify/Collection/476837970160",
-                "handle": "",
                 "children": []
               },
               {
                 "id": "1783464789498",
                 "title": "Girly Socks & Tights",
                 "category": "gid://shopify/Collection/452598825200",
-                "handle": "",
                 "children": []
               }
             ]
@@ -1894,14 +1821,12 @@
             "id": "1783464809264",
             "title": "Scarves",
             "category": "gid://shopify/Collection/417207976176",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783464823830",
             "title": "Hijabi Add Ons",
             "category": "gid://shopify/Collection/417207943408",
-            "handle": "",
             "children": []
           }
         ]
@@ -1910,24 +1835,22 @@
         "id": "1783464979526",
         "title": "Home & Beauty",
         "category": "",
-        "handle": "",
         "children": [
           {
             "id": "1783464994343",
             "title": "Aromatherapy Collection",
             "category": "gid://shopify/Collection/459875451120",
-            "handle": "",
             "children": []
           },
           {
             "id": "1783465001109",
             "title": "Carina Beauty",
             "category": "gid://shopify/Collection/417208140016",
-            "handle": "",
             "children": []
           }
         ]
       }
-    ]
+    ],
+    "Collections": []
   }
 }

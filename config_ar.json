@@ -90,6 +90,18 @@
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "category": "gid://shopify/Collection/473920700656"
+        },
+        {
+          "key": "",
+          "type": "image",
+          "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/BEACH_WEAR_Mobile_14-5-2026.png?v=1778767605",
+          "video": "",
+          "category": "gid://shopify/Collection/473920700656",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
         }
       ],
       "marginBottom": 0,

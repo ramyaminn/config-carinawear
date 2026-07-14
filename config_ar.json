@@ -1857,12 +1857,16 @@
         "title": "Privacy Policy",
         "sections": [
           {
-            "title": "Information We Collect",
+            "title": "",
             "description": "Contact details..."
           },
           {
-            "title": "How We Use Your Information",
+            "title": "",
             "description": "Process orders..."
+          },
+          {
+            "title": "",
+            "description": ""
           }
         ]
       }

@@ -1854,8 +1854,17 @@
     "Pages": [
       {
         "key": "privacy_policy",
-        "title": "سياسة الخصوصية",
-        "description": ""
+        "title": "Privacy Policy",
+        "sections": [
+          {
+            "title": "Information We Collect",
+            "description": "Contact details..."
+          },
+          {
+            "title": "How We Use Your Information",
+            "description": "Process orders..."
+          }
+        ]
       }
     ],
     "Collections": []

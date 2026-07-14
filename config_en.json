@@ -1851,22 +1851,20 @@
         ]
       }
     ],
-    "Pages": [
+    "PromotionPages": [
       {
-        "key": "privacy_policy",
-        "title": "Privacy Policy",
-        "sections": [
+        "key": "big_discount",
+        "pageTitle": "The BIGGEST DISCOUNTS in Egypt",
+        "pageSubtitle": "Must Have Pieces at a Great Value!",
+        "cards": [
           {
-            "title": "Information We Collect",
-            "description": "Contact details..."
-          },
-          {
-            "title": "How We Use Your Information",
-            "description": "Process orders..."
+            "title": "EXCLUSIVE",
+            "subtitle": "40% OFF PANTIES",
+            "image": "...",
+            "collection": "gid://shopify/Collection/412250833136"
           }
         ]
       }
-    ],
-    "Collections": []
+    ]
   }
 }

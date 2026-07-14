@@ -1851,22 +1851,20 @@
         ]
       }
     ],
-    "Pages": [
+    "PromotionPages": [
       {
-        "key": "privacy_policy",
-        "title": "Privacy Policy",
-        "sections": [
+        "key": "big_discount",
+        "pageTitle": "أكبر الخصومات في مصر",
+        "pageSubtitle": "أفضل القطع بأفضل الأسعار",
+        "cards": [
           {
-            "title": "Information We Collect",
-            "description": "Contact details..."
-          },
-          {
-            "title": "How We Use Your Information",
-            "description": "Process orders..."
+            "title": "حصري",
+            "subtitle": "خصم 40% على البانتي",
+            "image": "...",
+            "collection": "gid://shopify/Collection/412250833136"
           }
         ]
       }
-    ],
-    "Collections": []
+    ]
   }
 }

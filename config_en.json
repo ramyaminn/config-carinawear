@@ -1857,12 +1857,16 @@
         "title": "Privacy Policy",
         "sections": [
           {
-            "title": "Information We Collect",
-            "description": "Contact details..."
+            "title": "",
+            "description": "Last updated: July 7, 2026\n\nCarina - كارينا operates this store and website, including all related information, content, features, tools, products and services, in order to provide you, the customer, with a curated shopping experience (the \"Services\"). Carina - كارينا is powered by Shopify, which enables us to provide the Services to you. This Privacy Policy describes how we collect, use, and disclose your personal information when you visit, use, or make a purchase or other transaction using the Services or otherwise communicate with us. If there is a conflict between our Terms of Service and this Privacy Policy, this Privacy Policy controls with respect to the collection, processing, and disclosure of your personal information.\n\nPlease read this Privacy Policy carefully. By using and accessing any of the Services, you acknowledge that you have read this Privacy Policy and understand the collection, use, and disclosure of your information as described in this Privacy Policy."
           },
           {
-            "title": "How We Use Your Information",
-            "description": "Process orders..."
+            "title": "Personal Information We Collect or Process",
+            "description": "When we use the term \"personal information,\" we are referring to information that identifies or can reasonably be linked to you or another person. Personal information does not include information that is collected anonymously or that has been de-identified, so that it cannot identify or be reasonably linked to you. We may collect or process the following categories of personal information, including inferences drawn from this personal information, depending on how you interact with the Services, where you live, and as permitted or required by applicable law:\n\nContact details including your name, address, billing address, shipping address, phone number, and email address.\nFinancial information including credit card, debit card, and financial account numbers, payment card information, financial account information, transaction details, form of payment, payment confirmation and other payment details.\nAccount information including your username, password, security questions, preferences and settings.\nTransaction information including the items you view, put in your cart, add to your wishlist, or purchase, return, exchange or cancel and your past transactions.\nCommunications with us including the information you include in communications with us, for example, when sending a customer support inquiry.\nDevice information including information about your device, browser, or network connection, your IP address, and other unique identifiers.\nUsage information including information regarding your interaction with the Services, including how and when you interact with or navigate the Services."
+          },
+          {
+            "title": "Personal Information Sources",
+            "description": "We may collect personal information from the following sources:\n\nDirectly from you including when you create an account, visit or use the Services, communicate with us, or otherwise provide us with your personal information;\nAutomatically through the Services including from your device when you use our products or services or visit our websites, and through the use of cookies and similar technologies;\nFrom our service providers including when we engage them to enable certain technology and when they collect or process your personal information on our behalf;\nFrom our partners or other third parties."
           }
         ]
       }

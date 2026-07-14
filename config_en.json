@@ -1853,7 +1853,7 @@
     ],
     "PromotionPages": [
       {
-        "key": "big_discount",
+        "key": "promotion",
         "pageTitle": "The BIGGEST DISCOUNTS in Egypt",
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
@@ -1862,9 +1862,28 @@
             "subtitle": "40% OFF PANTIES",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
             "collection": "gid://shopify/Collection/412250833136"
+          },
+          {
+            "title": "HURRY UP!",
+            "subtitle": "40% OFF NEW ARRIVALS",
+            "image": "https://carina.eg/cdn/shop/files/Reading_relaxing_recharging_in_the_comfiest_PJs_carinawear_comfypajamas_carinacomfort_pajama_1080x.jpg?v=1778772687",
+            "collection": "gid://shopify/Collection/412250833136"
+          },
+          {
+            "title": "EXCLUSIVE",
+            "subtitle": "40% OFF CARINA TOPS",
+            "image": "https://carina.eg/cdn/shop/files/imgi_57_538935657_18390064990193673_2321204138032070021_n_-2copy_1400x.jpg?v=1778502010",
+            "collection": "gid://shopify/Collection/417094992112"
+          },
+          {
+            "title": "ONLINE EXCLUSIVE",
+            "subtitle": "40% OFF KIDS COLLECTION",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-18copy_1200x.jpg?v=1778577794",
+            "collection": "gid://shopify/Collection/412125888752"
           }
         ]
       }
-    ]
+    ],
+    "Collections": []
   }
 }

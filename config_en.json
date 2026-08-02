@@ -1364,17 +1364,6 @@
     "backgroundImage": null
   },
   "Datetime": "2026-06-01T11:53:07.069441",
-  "forceUpdate": {
-    "enabled": true,
-    "android": {
-      "minVersionCode": 20107,
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.carinawear.app"
-    },
-    "ios": {
-      "minBuildNumber": 20105,
-      "storeUrl": "https://apps.apple.com/app/id6737163499"
-    }
-  },
   "Dashboard": {
     "Menus": [
       {

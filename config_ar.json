@@ -93,7 +93,7 @@
         }
       ],
       "marginBottom": 0,
-      "height": 0.6,
+      "height": 0.60,
       "marginRight": 0,
       "marginTop": 0,
       "radius": 0,
@@ -1364,17 +1364,6 @@
     "backgroundImage": null
   },
   "Datetime": "2026-06-01T11:57:47.493747",
-  "forceUpdate": {
-    "enabled": true,
-    "android": {
-      "minVersionCode": 20107,
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.carinawear.app"
-    },
-    "ios": {
-      "minBuildNumber": 20105,
-      "storeUrl": "https://apps.apple.com/app/id6737163499"
-    }
-  },
   "Dashboard": {
     "Menus": [
       {
@@ -1864,7 +1853,7 @@
           {
             "title": "أسرعي!",
             "subtitle": "التوبات الأساسية : اشتري 2 واحصلي على 3 مجانًا ",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Untitled-16_copy.jpg?v=1785410588",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-CCCC1_copy_700x.jpg?v=1784195291",
             "collection": "gid://shopify/Collection/485426299120"
           },
           {
@@ -1894,7 +1883,7 @@
           {
             "title": "",
             "subtitle": "خصم حتى 40% على الجيرلي",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Girly.png?v=1738832162",
+            "image": "https://carina.eg/cdn/shop/files/Girly_Desktop_copy_700x.png?v=1742380437",
             "collection": "gid://shopify/Collection/485672780016"
           }
         ]

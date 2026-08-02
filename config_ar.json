@@ -1859,19 +1859,31 @@
         "cards": [
           {
             "title": "حصرياً",
-            "subtitle": "خصم 25% على البانتيهات",
+            "subtitle": "خصم حتي 50% على البانتيهات",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
-            "collection": "gid://shopify/Collection/479501910256"
+            "collection": "gid://shopify/Collection/485439013104"
           },
           {
-            "title": "حصرياً",
+            "title": "أسرعي!",
+            "subtitle": "التوبات الأساسية : اشتري 2 واحصلي على 3 مجانًا ",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-CCCC1_copy_1200x.jpg?v=1784195291",
+            "collection": "gid://shopify/Collection/485426299120"
+          },
+          {
+            "title": "أسرعي!",
+            "subtitle": "خصم 30% على الشرابات",
+            "image": "https://carina.eg/cdn/shop/files/ankle-length-socks-5-pairs-carina--2_1400x.jpg?v=1764205695",
+            "collection": "gid://shopify/Collection/485672812784"
+          },
+          {
+            "title": "حصريا",
             "subtitle": "خصم 30% على بوديهات كارينا",
             "image": "https://carina.eg/cdn/shop/files/imgi_57_538935657_18390064990193673_2321204138032070021_n_-2copy_1400x.jpg?v=1778502010",
             "collection": "gid://shopify/Collection/417094992112"
           },
           {
             "title": "حصريا أونلاين",
-            "subtitle": "خصم حتى 15% على الكولكشن الجديد",
+            "subtitle": "خصم حتى 30% على الكولكشن الجديد",
             "image": "https://carina.eg/cdn/shop/files/imgi_1_Untitled-zzzcopy_1800x_copy_1400x.jpg?v=1783341152",
             "collection": "gid://shopify/Collection/412250833136"
           },
@@ -1880,6 +1892,12 @@
             "subtitle": "خصم حتى 20% على ملابس النوم",
             "image": "https://carina.eg/cdn/shop/files/desktop_master_visual_1400x.webp?v=1780843203",
             "collection": "gid://shopify/Collection/404701446384"
+          },
+          {
+            "title": "",
+            "subtitle": "خصم حتى 40% على الجيرلي",
+            "image": "https://carina.eg/cdn/shop/files/Girly_Desktop_copy_1400x.png?v=1742380437",
+            "collection": "gid://shopify/Collection/485672780016"
           }
         ]
       }

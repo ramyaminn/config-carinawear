@@ -1859,9 +1859,21 @@
         "cards": [
           {
             "title": "EXCLUSIVE",
-            "subtitle": "25% OFF PANTIES",
+            "subtitle": "UP TO 50% OFF UNDERWEAR",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
-            "collection": "gid://shopify/Collection/479501910256"
+            "collection": "gid://shopify/Collection/485439013104"
+          },
+          {
+            "title": "HURRY UP!",
+            "subtitle": "BUY 2 GET 3 FREE BASIC TOPS",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-CCCC1_copy_1200x.jpg?v=1784195291",
+            "collection": "gid://shopify/Collection/485426299120"
+          },
+          {
+            "title": "HURRY UP!",
+            "subtitle": "30% OFF SOCKS",
+            "image": "https://carina.eg/cdn/shop/files/ankle-length-socks-5-pairs-carina--2_1400x.jpg?v=1764205695",
+            "collection": "gid://shopify/Collection/485672812784"
           },
           {
             "title": "EXCLUSIVE",
@@ -1880,6 +1892,12 @@
             "subtitle": "UP TO 20% OFF SLEEPWEAR",
             "image": "https://carina.eg/cdn/shop/files/desktop_master_visual_1400x.webp?v=1780843203",
             "collection": "gid://shopify/Collection/404701446384"
+          },
+          {
+            "title": "",
+            "subtitle": "UP TO 40% OFF GIRLY",
+            "image": "https://carina.eg/cdn/shop/files/Girly_Desktop_copy_1400x.png?v=1742380437",
+            "collection": "gid://shopify/Collection/485672780016"
           }
         ]
       }

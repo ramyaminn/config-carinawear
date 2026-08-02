@@ -25,7 +25,7 @@
     {
       "layout": "bannerImage",
       "design": "swiper",
-      "fit": "contain",
+      "fit": "cover",
       "marginLeft": 0,
       "items": [
         {

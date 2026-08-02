@@ -1367,12 +1367,6 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1783434822694",
-        "title": "Best Sellers",
-        "category": "gid://shopify/Collection/482400239856",
-        "children": []
-      },
-      {
         "id": "1783435008219",
         "title": "NEW Collection",
         "category": "gid://shopify/Collection/412250833136",
@@ -1402,6 +1396,12 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1783434822694",
+        "title": "Best Sellers",
+        "category": "gid://shopify/Collection/482400239856",
+        "children": []
       },
       {
         "id": "1783435409507",

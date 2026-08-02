@@ -1368,22 +1368,9 @@
     "Menus": [
       {
         "id": "1783434822694",
-        "title": "شجعي مصر⚽",
-        "category": "gid://shopify/Collection/482965618928",
-        "children": [
-          {
-            "id": "1783434867124",
-            "title": "شجعي من البيت",
-            "category": "gid://shopify/Collection/482965192944",
-            "children": []
-          },
-          {
-            "id": "1783434878857",
-            "title": "شجعي من كل مكان",
-            "category": "gid://shopify/Collection/482965258480",
-            "children": []
-          }
-        ]
+        "title": "الأكثر مبيعًا",
+        "category": "gid://shopify/Collection/482400239856",
+        "children": []
       },
       {
         "id": "1783435008219",

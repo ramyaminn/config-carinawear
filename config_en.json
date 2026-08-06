@@ -1364,19 +1364,27 @@
     "backgroundImage": null
   },
   "Datetime": "2026-06-01T11:53:07.069441",
-  "forceUpdate": {
-    "enabled": true,
-    "android": {
-      "minVersionCode": 20107,
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.carinawear.app"
-    },
-    "ios": {
-      "minBuildNumber": 20105,
-      "storeUrl": "https://apps.apple.com/app/id6737163499"
-    }
-  },
   "Dashboard": {
     "Menus": [
+      {
+        "id": "1786033094908",
+        "title": "Summer Sale",
+        "category": "",
+        "children": [
+          {
+            "id": "1786033194173",
+            "title": "Buy 2 Get 1 FREE",
+            "category": "gid://shopify/Collection/486663782640",
+            "children": []
+          },
+          {
+            "id": "1786033211055",
+            "title": "Buy 1, Get the 2nd 50% Off",
+            "category": "gid://shopify/Collection/486663848176",
+            "children": []
+          }
+        ]
+      },
       {
         "id": "1783435008219",
         "title": "NEW Collection",
@@ -1847,25 +1855,6 @@
             "children": []
           }
         ]
-      },
-      {
-        "id": "1786033094908",
-        "title": "Summer Sale",
-        "category": "",
-        "children": [
-          {
-            "id": "1786033194173",
-            "title": "Buy 2 Get 1 FREE",
-            "category": "gid://shopify/Collection/486663782640",
-            "children": []
-          },
-          {
-            "id": "1786033211055",
-            "title": "Buy 1, Get the 2nd 50% Off",
-            "category": "gid://shopify/Collection/486663848176",
-            "children": []
-          }
-        ]
       }
     ],
     "PromotionPages": [
@@ -1874,6 +1863,12 @@
         "pageTitle": "The BIGGEST DISCOUNTS in Egypt",
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
+          {
+            "title": "Limited Time Only ⭐",
+            "subtitle": "CHOOSE YOUR DEAL ⭐",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Summer_Deal_MOB.png?v=1755701116",
+            "collection": "gid://shopify/Collection/486664306928"
+          },
           {
             "title": "EXCLUSIVE",
             "subtitle": "UP TO 50% OFF UNDERWEAR",
@@ -1915,12 +1910,6 @@
             "subtitle": "UP TO 40% OFF GIRLY",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Untitled-5copy.jpg?v=1764214435",
             "collection": "gid://shopify/Collection/485672780016"
-          },
-          {
-            "title": "Limited Time Only ⭐",
-            "subtitle": "CHOOSE YOUR DEAL ⭐",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Summer_Deal_MOB.png?v=1755701116",
-            "collection": "gid://shopify/Collection/486664306928"
           }
         ]
       }

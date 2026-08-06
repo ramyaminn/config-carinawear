@@ -93,7 +93,7 @@
         }
       ],
       "marginBottom": 0,
-      "height": 0.60,
+      "height": 0.6,
       "marginRight": 0,
       "marginTop": 0,
       "radius": 0,
@@ -151,8 +151,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/412250833136",
-      "name": " وصل حديثا",
+      "category": "gid://shopify/Collection/486664306928",
+      "name": "خصومات الصيف",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -1870,7 +1870,7 @@
           {
             "title": "أسرعي!",
             "subtitle": "خصم 30% على الشرابات",
-            "image": "https://carina.eg/cdn/shop/files/ankle-length-socks-5-pairs-carina--2_1400x.jpg?v=1764205695",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-1_copy_869450b8-1216-4ed6-90fe-57e9d3fabe2a_700x.jpg?v=1785752785",
             "collection": "gid://shopify/Collection/485672812784"
           },
           {
@@ -1894,8 +1894,14 @@
           {
             "title": "",
             "subtitle": "خصم حتى 40% على الجيرلي",
-            "image": "https://carina.eg/cdn/shop/files/Girly_Desktop_copy_700x.png?v=1742380437",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-3bbbbbbbbbb_copy_739x.jpg?v=1785751766",
             "collection": "gid://shopify/Collection/485672780016"
+          },
+          {
+            "title": "لفتره محدودة ⭐",
+            "subtitle": "اختاري العرض اللي يناسبك! ⭐",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Summer_Deal_MOB.png?v=1755701116",
+            "collection": "gid://shopify/Collection/486664306928"
           }
         ]
       }

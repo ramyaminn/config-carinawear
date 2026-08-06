@@ -151,8 +151,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/412250833136",
-      "name": "New Arrivals",
+      "category": "gid://shopify/Collection/486664306928",
+      "name": "SUMMER SALE",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -1870,7 +1870,7 @@
           {
             "title": "HURRY UP!",
             "subtitle": "30% OFF SOCKS",
-            "image": "https://carina.eg/cdn/shop/files/ankle-length-socks-5-pairs-carina--2_1400x.jpg?v=1764205695",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-1_copy_869450b8-1216-4ed6-90fe-57e9d3fabe2a_700x.jpg?v=1785752785",
             "collection": "gid://shopify/Collection/485672812784"
           },
           {
@@ -1894,8 +1894,14 @@
           {
             "title": "",
             "subtitle": "UP TO 40% OFF GIRLY",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Girly.png?v=1738832162",
+            "image": "https://carina.eg/cdn/shop/files/Untitled-3bbbbbbbbbb_copy_739x.jpg?v=1785751766",
             "collection": "gid://shopify/Collection/485672780016"
+          },
+          {
+            "title": "Limited Time Only ⭐",
+            "subtitle": "CHOOSE YOUR DEAL ⭐",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Summer_Deal_MOB.png?v=1755701116",
+            "collection": "gid://shopify/Collection/486664306928"
           }
         ]
       }

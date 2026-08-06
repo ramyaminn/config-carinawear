@@ -1847,6 +1847,25 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1786033094908",
+        "title": "Summer Sale",
+        "category": "",
+        "children": [
+          {
+            "id": "1786033194173",
+            "title": "Buy 2 Get 1 FREE",
+            "category": "gid://shopify/Collection/486663782640",
+            "children": []
+          },
+          {
+            "id": "1786033211055",
+            "title": "Buy 1, Get the 2nd 50% Off",
+            "category": "gid://shopify/Collection/486663848176",
+            "children": []
+          }
+        ]
       }
     ],
     "PromotionPages": [

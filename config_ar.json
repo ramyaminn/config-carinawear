@@ -31,7 +31,7 @@
         {
           "key": "rUaTgjLCzy",
           "type": "image",
-          "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/mobile_banner_app.png?v=1786066874",
+          "image": "https://carina.eg/cdn/shop/files/Shirt_MOB_27-7-2026.jpg?v=1785160001&width=1600",
           "video": "",
           "products": [],
           "productLength": 3,
@@ -151,8 +151,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/486664306928",
-      "name": "خصومات الصيف",
+      "category": "gid://shopify/Collection/412250833136",
+      "name": "وصل حديثا",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -1367,25 +1367,6 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1786033094908",
-        "title": "خصومات الصيف",
-        "category": "",
-        "children": [
-          {
-            "id": "1786033194173",
-            "title": "اشترِي 2 واحصلي علي 1 مجانًا",
-            "category": "gid://shopify/Collection/486663782640",
-            "children": []
-          },
-          {
-            "id": "1786033211055",
-            "title": "اشتري قطعة واحصلي على الثانية بخصم 50%✨",
-            "category": "gid://shopify/Collection/486663848176",
-            "children": []
-          }
-        ]
-      },
-      {
         "id": "1783435008219",
         "title": "التشكيلة الجديدة",
         "category": "gid://shopify/Collection/412250833136",
@@ -1863,12 +1844,6 @@
         "pageTitle": "أكبر الخصومات في مصر",
         "pageSubtitle": "أفضل القطع بأفضل الأسعار",
         "cards": [
-          {
-            "title": "لفتره محدودة ⭐",
-            "subtitle": "اختاري العرض اللي يناسبك! ⭐",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Summer_Deal_MOB.png?v=1755701116",
-            "collection": "gid://shopify/Collection/486664306928"
-          },
           {
             "title": "حصرياً",
             "subtitle": "خصم حتي 50% على البانتيهات",

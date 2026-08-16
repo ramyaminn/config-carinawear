@@ -1890,5 +1890,11 @@
       }
     ],
     "Collections": []
+  },
+  "PromoCodePopup": {
+    "enabled": true,
+    "code": "CR5",
+    "title": "عرض خاص",
+    "description": "احصل على خصم 20% على طلبك الأول"
   }
 }

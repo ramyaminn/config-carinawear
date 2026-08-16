@@ -1890,5 +1890,11 @@
       }
     ],
     "Collections": []
+  },
+  "PromoCodePopup": {
+    "enabled": true,
+    "code": "CR5",
+    "title": "SPECIAL OFFER",
+    "description": "Get 20% OFF your first order"
   }
 }

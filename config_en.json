@@ -1395,6 +1395,12 @@
             "title": "New Sleepwear",
             "category": "gid://shopify/Collection/446234689776",
             "children": []
+          },
+          {
+            "id": "1787133715468",
+            "title": "New Sets",
+            "category": "gid://shopify/Collection/488905998576",
+            "children": []
           }
         ]
       },
@@ -1633,7 +1639,7 @@
           },
           {
             "id": "1783463747550",
-            "title": "Matching Sets",
+            "title": "Match & Save",
             "category": "gid://shopify/Collection/444634890480",
             "children": []
           },
@@ -1837,6 +1843,37 @@
             "children": []
           }
         ]
+      },
+      {
+        "id": "1787133874213",
+        "title": "Back To School",
+        "category": "gid://shopify/Collection/488907210992",
+        "children": [
+          {
+            "id": "1787133901666",
+            "title": "Back To School Tops",
+            "category": "gid://shopify/Collection/488970551536",
+            "children": []
+          },
+          {
+            "id": "1787133971784",
+            "title": "Back To School Shirts",
+            "category": "gid://shopify/Collection/488970682608",
+            "children": []
+          },
+          {
+            "id": "1787134065982",
+            "title": "Back To School Pants",
+            "category": "gid://shopify/Collection/488970584304",
+            "children": []
+          },
+          {
+            "id": "1787134077930",
+            "title": "Back To School Socks",
+            "category": "gid://shopify/Collection/488970649840",
+            "children": []
+          }
+        ]
       }
     ],
     "PromotionPages": [
@@ -1892,9 +1929,5 @@
     ],
     "Collections": []
   },
-  "PromoCodePopup": {
-    "enabled": true,
-    "code": "CR5",
-    "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_2d432c22-941d-4c96-b033-edf3853095fb.png?v=1786631175&width=3000"
-  }
+  "PromoCodePopup": {}
 }

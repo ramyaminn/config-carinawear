@@ -1368,6 +1368,37 @@
   "Dashboard": {
     "Menus": [
       {
+        "id": "1787133874213",
+        "title": "Back To School",
+        "category": "gid://shopify/Collection/488907210992",
+        "children": [
+          {
+            "id": "1787133901666",
+            "title": "Back To School Tops",
+            "category": "gid://shopify/Collection/488970551536",
+            "children": []
+          },
+          {
+            "id": "1787133971784",
+            "title": "Back To School Shirts",
+            "category": "gid://shopify/Collection/488970682608",
+            "children": []
+          },
+          {
+            "id": "1787134065982",
+            "title": "Back To School Pants",
+            "category": "gid://shopify/Collection/488970584304",
+            "children": []
+          },
+          {
+            "id": "1787134077930",
+            "title": "Back To School Socks",
+            "category": "gid://shopify/Collection/488970649840",
+            "children": []
+          }
+        ]
+      },
+      {
         "id": "1783435008219",
         "title": "NEW Collection",
         "category": "gid://shopify/Collection/412250833136",
@@ -1840,37 +1871,6 @@
             "id": "1783465001109",
             "title": "Carina Beauty",
             "category": "gid://shopify/Collection/417208140016",
-            "children": []
-          }
-        ]
-      },
-      {
-        "id": "1787133874213",
-        "title": "Back To School",
-        "category": "gid://shopify/Collection/488907210992",
-        "children": [
-          {
-            "id": "1787133901666",
-            "title": "Back To School Tops",
-            "category": "gid://shopify/Collection/488970551536",
-            "children": []
-          },
-          {
-            "id": "1787133971784",
-            "title": "Back To School Shirts",
-            "category": "gid://shopify/Collection/488970682608",
-            "children": []
-          },
-          {
-            "id": "1787134065982",
-            "title": "Back To School Pants",
-            "category": "gid://shopify/Collection/488970584304",
-            "children": []
-          },
-          {
-            "id": "1787134077930",
-            "title": "Back To School Socks",
-            "category": "gid://shopify/Collection/488970649840",
             "children": []
           }
         ]

@@ -1929,9 +1929,5 @@
     ],
     "Collections": []
   },
-  "PromoCodePopup": {
-    "enabled": true,
-    "code": "CR5",
-    "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_2d432c22-941d-4c96-b033-edf3853095fb.png?v=1786631175&width=1600"
-  }
+  "PromoCodePopup": {}
 }

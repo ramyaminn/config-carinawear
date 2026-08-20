@@ -29,6 +29,18 @@
       "marginLeft": 0,
       "items": [
         {
+          "key": "kJDrLkurgp",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_4_cdbd7a9a-d3dc-47b7-b4a9-69b8fd18e829.jpg?v=1787221406&width=1600",
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": "gid://shopify/Collection/477207363824"
+        },
+        {
           "key": "rUaTgjLCzy",
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/SCHOOL_mobile_19-8-2026.png?v=1787148093&width=1000",
@@ -66,18 +78,6 @@
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false
-        },
-        {
-          "key": "kJDrLkurgp",
-          "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_4_cdbd7a9a-d3dc-47b7-b4a9-69b8fd18e829.jpg?v=1787221406&width=1600",
-          "video": "",
-          "products": [],
-          "productLength": 3,
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/477207363824"
         }
       ],
       "marginBottom": 0,
@@ -1870,6 +1870,12 @@
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
           {
+            "title": "Summer Sale! ☀️",
+            "subtitle": "BUY 1 GET 1 FREE",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/buy1-app.png?v=1787223594",
+            "collection": "gid://shopify/Collection/477207363824"
+          },
+          {
             "title": "EXCLUSIVE",
             "subtitle": "UP TO 50% OFF PANTIES",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
@@ -1898,12 +1904,6 @@
             "subtitle": "UP TO 40% OFF GIRLY",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Untitled-5copy.jpg?v=1764214435",
             "collection": "gid://shopify/Collection/485672780016"
-          },
-          {
-            "title": "Summer Sale! ☀️",
-            "subtitle": "BUY 1 GET 1 FREE",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/buy1-app.png?v=1787223594",
-            "collection": "gid://shopify/Collection/477207363824"
           }
         ]
       }

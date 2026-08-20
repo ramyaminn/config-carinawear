@@ -1404,6 +1404,12 @@
             "children": []
           },
           {
+            "id": "1787133715468",
+            "title": "أطقم جديدة",
+            "category": "gid://shopify/Collection/488905998576",
+            "children": []
+          },
+          {
             "id": "1783435100082",
             "title": "فساتين جديدة",
             "category": "gid://shopify/Collection/446619091184",
@@ -1413,12 +1419,6 @@
             "id": "1783435108531",
             "title": "ملابس نوم جديدة",
             "category": "gid://shopify/Collection/446234689776",
-            "children": []
-          },
-          {
-            "id": "1787133715468",
-            "title": "أطقم جديدة",
-            "category": "gid://shopify/Collection/488905998576",
             "children": []
           }
         ]

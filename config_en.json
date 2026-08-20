@@ -1404,6 +1404,12 @@
             "children": []
           },
           {
+            "id": "1787133715468",
+            "title": "New Sets",
+            "category": "gid://shopify/Collection/488905998576",
+            "children": []
+          },
+          {
             "id": "1783435100082",
             "title": "New Dresses",
             "category": "gid://shopify/Collection/446619091184",
@@ -1413,12 +1419,6 @@
             "id": "1783435108531",
             "title": "New Sleepwear",
             "category": "gid://shopify/Collection/446234689776",
-            "children": []
-          },
-          {
-            "id": "1787133715468",
-            "title": "New Sets",
-            "category": "gid://shopify/Collection/488905998576",
             "children": []
           }
         ]

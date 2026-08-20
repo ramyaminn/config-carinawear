@@ -369,7 +369,7 @@
       "marginY": 0,
       "itemSize": {
         "width": 120,
-        "height": 220
+        "height": 420
       },
       "imageBoxFit": "cover",
       "textAlignment": "topLeft",

@@ -693,7 +693,7 @@
       "marginBottom": 0,
       "separateWidth": 0,
       "shadow": null,
-      "gradientStyle": true,
+      "gradientStyle": false,
       "items": [
         {
           "originalColor": false,
@@ -783,7 +783,7 @@
       "marginY": 0,
       "itemSize": {
         "width": 180,
-        "height": 200
+        "height": 105
       },
       "imageBoxFit": "cover",
       "textAlignment": "topLeft",

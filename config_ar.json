@@ -1871,13 +1871,13 @@
         "cards": [
           {
             "title": "حصرياً",
-            "subtitle": "خصم حتي 50% على البانتيهات",
+            "subtitle": "خصم حتى 50% على البانتيهات",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
             "collection": "gid://shopify/Collection/485439013104"
           },
           {
-            "title": "أسرعي!",
-            "subtitle": "التوبات الأساسية : اشتري 2 واحصلي على 3 مجانًا ",
+            "title": "خصومات التوبات الأساسية!",
+            "subtitle": "اشتري 2 واحصلي على 3 مجانًا ",
             "image": "https://carina.eg/cdn/shop/files/Untitled-CCCC1_copy_700x.jpg?v=1784195291",
             "collection": "gid://shopify/Collection/485426299120"
           },
@@ -1894,16 +1894,16 @@
             "collection": "gid://shopify/Collection/417094992112"
           },
           {
-            "title": "لفترة محدودة",
-            "subtitle": "خصم حتى 20% على ملابس النوم",
-            "image": "https://carina.eg/cdn/shop/files/desktop_master_visual_1400x.webp?v=1780843203",
-            "collection": "gid://shopify/Collection/404701446384"
-          },
-          {
-            "title": "Don't Miss Out",
+            "title": "متفوتيش الفرصة",
             "subtitle": "خصم حتى 40% على الجيرلي",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Untitled-5copy.jpg?v=1764214435",
             "collection": "gid://shopify/Collection/485672780016"
+          },
+          {
+            "title": "تصفيات الصيف! ☀️",
+            "subtitle": "اشتري 1 و احصلي على 1 مجاناً",
+            "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_4_cdbd7a9a-d3dc-47b7-b4a9-69b8fd18e829.jpg?v=1787221406&width=1600",
+            "collection": "gid://shopify/Collection/477207363824"
           }
         ]
       }

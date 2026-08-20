@@ -133,7 +133,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 20,
+      "height": 10,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null

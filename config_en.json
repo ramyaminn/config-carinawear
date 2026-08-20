@@ -1872,7 +1872,7 @@
         "cards": [
           {
             "title": "EXCLUSIVE",
-            "subtitle": "UP TO 50% OFF UNDERWEARR",
+            "subtitle": "UP TO 50% OFF UNDERWEAR",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
             "collection": "gid://shopify/Collection/485439013104"
           },
@@ -1910,10 +1910,6 @@
       }
     ],
     "Collections": [],
-    "PromoCodePopup": {
-      "enabled": true,
-      "code": "CR5",
-      "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_2d432c22-941d-4c96-b033-edf3853095fb.png?v=1786631175&width=2000"
-    }
+    "PromoCodePopup": {}
   }
 }

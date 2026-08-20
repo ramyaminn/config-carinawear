@@ -139,8 +139,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/477207363824",
-      "name": "Buy 1 Get 1 Free",
+      "category": "gid://shopify/Collection/412250833136",
+      "name": "New Arrivals",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -334,8 +334,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/412250833136",
-      "name": "New Arrivals",
+      "category": "gid://shopify/Collection/477207363824",
+      "name": "Buy 1 Get 1 Free",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,

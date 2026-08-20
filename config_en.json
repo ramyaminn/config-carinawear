@@ -1871,13 +1871,13 @@
         "cards": [
           {
             "title": "EXCLUSIVE",
-            "subtitle": "UP TO 50% OFF UNDERWEAR",
+            "subtitle": "UP TO 50% OFF PANTIES",
             "image": "https://carina.eg/cdn/shop/files/WhatsApp_Image_2026-03-12_at_11.37.44_AM_1376x.jpg?v=1773308286",
             "collection": "gid://shopify/Collection/485439013104"
           },
           {
-            "title": "HURRY UP!",
-            "subtitle": "BUY 2 GET 3 FREE BASIC TOPS",
+            "title": "BASIC TOPS OFFER!",
+            "subtitle": "BUY 2 GET 3 FREE",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Untitled-16_copy.jpg?v=1785410588",
             "collection": "gid://shopify/Collection/485426299120"
           },
@@ -1894,16 +1894,16 @@
             "collection": "gid://shopify/Collection/417094992112"
           },
           {
-            "title": "LIMITED TIME",
-            "subtitle": "UP TO 20% OFF SLEEPWEAR",
-            "image": "https://carina.eg/cdn/shop/files/desktop_master_visual_1400x.webp?v=1780843203",
-            "collection": "gid://shopify/Collection/404701446384"
-          },
-          {
             "title": "Don't Miss Out",
             "subtitle": "UP TO 40% OFF GIRLY",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/Untitled-5copy.jpg?v=1764214435",
             "collection": "gid://shopify/Collection/485672780016"
+          },
+          {
+            "title": "Summer Sale! ☀️",
+            "subtitle": "BUY 1 GET 1 FREE",
+            "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_4_cdbd7a9a-d3dc-47b7-b4a9-69b8fd18e829.jpg?v=1787221406&width=1600",
+            "collection": "gid://shopify/Collection/477207363824"
           }
         ]
       }

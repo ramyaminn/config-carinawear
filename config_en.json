@@ -1547,23 +1547,27 @@
         "id": "1787133874213",
         "title": "Back To School",
         "category": "gid://shopify/Collection/488907210992",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1787133901666",
             "title": "Back To School Tops",
             "category": "gid://shopify/Collection/488970551536",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1787133971784",
             "title": "Back To School Shirts",
             "category": "gid://shopify/Collection/488970682608",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1787134065982",
             "title": "Back To School Pants",
             "category": "gid://shopify/Collection/488970584304",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
@@ -1578,6 +1582,7 @@
         "id": "1783435008219",
         "title": "Summer Sale",
         "category": "gid://shopify/Collection/412250833136",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783435073617",
@@ -1664,16 +1669,19 @@
         "id": "1783435680647",
         "title": "Basic Tops",
         "category": "gid://shopify/Collection/417094992112",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783435694645",
             "title": "Carina Basics",
             "category": "gid://shopify/Collection/458261594352",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": [
               {
                 "id": "1783435706465",
                 "title": "Breathable Viscose",
                 "category": "gid://shopify/Collection/458280599792",
+                "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
                 "children": []
               },
               {
@@ -1694,18 +1702,21 @@
             "id": "1783435848608",
             "title": "Tank Top",
             "category": "gid://shopify/Collection/446236229872",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1783435857140",
             "title": "Short Sleeve",
             "category": "gid://shopify/Collection/446236197104",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1783435865063",
             "title": "Cropped",
             "category": "gid://shopify/Collection/446236295408",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
@@ -1732,11 +1743,13 @@
         "id": "1783463057027",
         "title": "Clothing",
         "category": "gid://shopify/Collection/413456269552",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783463073195",
             "title": "Tops",
             "category": "gid://shopify/Collection/404700627184",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": [
               {
                 "id": "1783463092645",
@@ -1774,6 +1787,7 @@
             "id": "1783463333177",
             "title": "Bottoms",
             "category": "gid://shopify/Collection/404700659952",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": [
               {
                 "id": "1783463379225",
@@ -1817,6 +1831,7 @@
             "id": "1783463523615",
             "title": "Dresses",
             "category": "gid://shopify/Collection/404704690416",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {

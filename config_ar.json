@@ -1547,21 +1547,18 @@
             "id": "1787133901666",
             "title": "توبات",
             "category": "gid://shopify/Collection/488970551536",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1787133971784",
             "title": "قمصان",
             "category": "gid://shopify/Collection/488970682608",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1787134065982",
             "title": "بنطلونات",
             "category": "gid://shopify/Collection/488970584304",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
@@ -1614,6 +1611,7 @@
         "id": "1783434822694",
         "title": "الأكثر مبيعًا",
         "category": "gid://shopify/Collection/482400239856",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": []
       },
       {
@@ -1670,13 +1668,11 @@
             "id": "1783435694645",
             "title": "أساسيات كارينا",
             "category": "gid://shopify/Collection/458261594352",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": [
               {
                 "id": "1783435706465",
                 "title": "فيسكوز ",
                 "category": "gid://shopify/Collection/458280599792",
-                "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
                 "children": []
               },
               {
@@ -1697,21 +1693,18 @@
             "id": "1783435848608",
             "title": "توب كت وحمالات",
             "category": "gid://shopify/Collection/446236229872",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1783435857140",
             "title": "توب نص كم",
             "category": "gid://shopify/Collection/446236197104",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
             "id": "1783435865063",
             "title": "توب قصير",
             "category": "gid://shopify/Collection/446236295408",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
@@ -1744,7 +1737,6 @@
             "id": "1783463073195",
             "title": "توبات ",
             "category": "gid://shopify/Collection/404700627184",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": [
               {
                 "id": "1783463092645",
@@ -1782,7 +1774,6 @@
             "id": "1783463333177",
             "title": "بنطلونات وجيبات ",
             "category": "gid://shopify/Collection/404700659952",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": [
               {
                 "id": "1783463379225",
@@ -1826,7 +1817,6 @@
             "id": "1783463523615",
             "title": "فساتين",
             "category": "gid://shopify/Collection/404704690416",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
             "children": []
           },
           {
@@ -1916,6 +1906,7 @@
         "id": "1783464137446",
         "title": "ملابس داخلية",
         "category": "gid://shopify/Collection/404703903984",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783464167766",
@@ -2009,6 +2000,7 @@
         "id": "1783464729117",
         "title": "أكسسوارات",
         "category": "gid://shopify/Collection/404706197744",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783464752054",

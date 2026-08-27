@@ -1367,6 +1367,7 @@
         "order",
         "privacy",
         "returnRefund",
+        "rating",
         "callUs"
       ],
       "styleItem": "flat",

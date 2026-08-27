@@ -1541,7 +1541,6 @@
         "id": "1787133874213",
         "title": "العودة إلى المدرسة",
         "category": "gid://shopify/Collection/488907210992",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1787133901666",
@@ -1573,7 +1572,6 @@
         "id": "1783435008219",
         "title": "تصفيات الصيف",
         "category": "gid://shopify/Collection/412250833136",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/icon_jpg.jpg?v=1787826390",
         "children": [
           {
             "id": "1783435073617",
@@ -1611,14 +1609,12 @@
         "id": "1783434822694",
         "title": "الأكثر مبيعًا",
         "category": "gid://shopify/Collection/482400239856",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": []
       },
       {
         "id": "1783435409507",
         "title": "ملابس البحر",
         "category": "gid://shopify/Collection/420091986160",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783435425357",
@@ -1662,7 +1658,6 @@
         "id": "1783435680647",
         "title": "توبات أساسية",
         "category": "gid://shopify/Collection/417094992112",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783435694645",
@@ -1731,7 +1726,6 @@
         "id": "1783463057027",
         "title": "ملابس",
         "category": "gid://shopify/Collection/413456269552",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783463073195",
@@ -1868,7 +1862,6 @@
         "id": "1783463857091",
         "title": "ملابس النوم",
         "category": "gid://shopify/Collection/404701446384",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783463888040",
@@ -1906,7 +1899,6 @@
         "id": "1783464137446",
         "title": "ملابس داخلية",
         "category": "gid://shopify/Collection/404703903984",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783464167766",
@@ -2000,7 +1992,6 @@
         "id": "1783464729117",
         "title": "أكسسوارات",
         "category": "gid://shopify/Collection/404706197744",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/dress-app.png?v=1787663032",
         "children": [
           {
             "id": "1783464752054",
@@ -2108,7 +2099,7 @@
     ],
     "Collections": [],
     "PromoCodePopup": {
-      "enabled": true,
+      "enabled": false,
       "code": "CR5",
       "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_2d432c22-941d-4c96-b033-edf3853095fb.png?v=1786631175&width=2000"
     },

@@ -2099,7 +2099,7 @@
     ],
     "Collections": [],
     "PromoCodePopup": {
-      "enabled": true,
+      "enabled": false,
       "code": "CR5",
       "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/App_2_.jpg_1.jpg?v=1788086905"
     },

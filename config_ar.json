@@ -1612,49 +1612,6 @@
         "children": []
       },
       {
-        "id": "1783435409507",
-        "title": "ملابس البحر",
-        "category": "gid://shopify/Collection/420091986160",
-        "children": [
-          {
-            "id": "1783435425357",
-            "title": "توبات صيفية للبحر",
-            "category": "gid://shopify/Collection/460073304304",
-            "children": []
-          },
-          {
-            "id": "1783435447371",
-            "title": "بنطلونات وجيبات للبحر",
-            "category": "gid://shopify/Collection/460073042160",
-            "children": []
-          },
-          {
-            "id": "1783435457037",
-            "title": "فساتين حيوية للبحر",
-            "category": "gid://shopify/Collection/460072681712",
-            "children": []
-          },
-          {
-            "id": "1783435469054",
-            "title": "كيمونو خفيف للبحر ",
-            "category": "gid://shopify/Collection/460072714480",
-            "children": []
-          },
-          {
-            "id": "1783435479103",
-            "title": "أطقم لنسيم البحر",
-            "category": "gid://shopify/Collection/460073140464",
-            "children": []
-          },
-          {
-            "id": "1783435488886",
-            "title": "إكسسوارات البحر",
-            "category": "gid://shopify/Collection/461334577392",
-            "children": []
-          }
-        ]
-      },
-      {
         "id": "1783435680647",
         "title": "توبات أساسية",
         "category": "gid://shopify/Collection/417094992112",
@@ -1855,6 +1812,49 @@
             "title": "كارينا  🎀 نوت فاوند",
             "category": "gid://shopify/Collection/439871701232",
             "children": []
+          },
+          {
+            "id": "1783435409507",
+            "title": "ملابس البحر",
+            "category": "gid://shopify/Collection/420091986160",
+            "children": [
+              {
+                "id": "1783435425357",
+                "title": "توبات صيفية للبحر",
+                "category": "gid://shopify/Collection/460073304304",
+                "children": []
+              },
+              {
+                "id": "1783435447371",
+                "title": "بنطلونات وجيبات للبحر",
+                "category": "gid://shopify/Collection/460073042160",
+                "children": []
+              },
+              {
+                "id": "1783435457037",
+                "title": "فساتين حيوية للبحر",
+                "category": "gid://shopify/Collection/460072681712",
+                "children": []
+              },
+              {
+                "id": "1783435469054",
+                "title": "كيمونو خفيف للبحر ",
+                "category": "gid://shopify/Collection/460072714480",
+                "children": []
+              },
+              {
+                "id": "1783435479103",
+                "title": "أطقم لنسيم البحر",
+                "category": "gid://shopify/Collection/460073140464",
+                "children": []
+              },
+              {
+                "id": "1783435488886",
+                "title": "إكسسوارات البحر",
+                "category": "gid://shopify/Collection/461334577392",
+                "children": []
+              }
+            ]
           }
         ]
       },

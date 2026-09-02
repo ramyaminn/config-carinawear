@@ -2090,7 +2090,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/App_2_.jpg_1.jpg?v=1788086905"
     },
     "ProductBadges": {
-      "enabled": true,
+      "enabled": false,
       "badges": [
         {
           "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/icon_bg_app.png?v=1787828193",

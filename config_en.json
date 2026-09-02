@@ -139,8 +139,8 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/477207363824",
-      "name": "Buy 1 Get 1 Free",
+      "category": "gid://shopify/Collection/485426299120",
+      "name": "Buy 2 Get 3 FREE",
       "layout": "twoColumn",
       "isSnapping": false,
       "borderRadius": 6,
@@ -2110,12 +2110,8 @@
       "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/App_2_.jpg_1.jpg?v=1788086905"
     },
     "ProductBadges": {
-      "enabled": false,
+      "enabled": true,
       "badges": [
-        {
-          "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/icon_bg_app.png?v=1787828193",
-          "tag": "B1G1"
-        },
         {
           "image": "https://app.shinecommerce.co/storage/Y2FyaW5hd2Vhci5teXNob3BpZnkuY29t/libraries/BUY2-GET3-2hju9dgUiTz.png",
           "tag": "B2G3"

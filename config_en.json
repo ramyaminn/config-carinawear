@@ -224,8 +224,8 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "Linen Collection",
-          "name": "Linen Collection",
+          "title": "Jeans",
+          "name": "Jeans",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/Untitled-15_copy_60138592-e3eb-4bb0-af4d-98a6494cd49c.jpg?v=1785410586&width=600",
@@ -471,8 +471,8 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": null,
-          "name": null,
+          "title": "BRAS",
+          "name": "BRAS",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/Panty_116.jpg?v=1783858671&width=800",
@@ -491,8 +491,8 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": null,
-          "name": null,
+          "title": "BASIC TOPS",
+          "name": "BASIC TOPS",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/2_81478ec2-a78b-425e-bdbb-d76668017d63.jpg?v=1781177722&width=800",
@@ -511,8 +511,8 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": null,
-          "name": null,
+          "title": "PANTIES",
+          "name": "PANTIES",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/Gemini_Generated_Image_f9us6xf9us6xf9us.jpg?v=1783602681&width=800",
@@ -572,8 +572,8 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "Sleepwear",
-          "name": "Sleepwear",
+          "title": "SLEEPWEAR",
+          "name": "SLEEPWEAR",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/imgi_55_686955694_18430034989193673_1066202260632303512_n.jpg?v=1783936529&width=800",
@@ -1616,49 +1616,6 @@
         "title": "Best Sellers",
         "category": "gid://shopify/Collection/482400239856",
         "children": []
-      },
-      {
-        "id": "1783435409507",
-        "title": "Beachwear",
-        "category": "gid://shopify/Collection/420091986160",
-        "children": [
-          {
-            "id": "1783435425357",
-            "title": "Wave-Redy Tops",
-            "category": "gid://shopify/Collection/460073304304",
-            "children": []
-          },
-          {
-            "id": "1783435447371",
-            "title": "Sandy Bottoms",
-            "category": "gid://shopify/Collection/460073042160",
-            "children": []
-          },
-          {
-            "id": "1783435457037",
-            "title": "Fun Dresses",
-            "category": "gid://shopify/Collection/460072681712",
-            "children": []
-          },
-          {
-            "id": "1783435469054",
-            "title": "Bright Kimonos",
-            "category": "gid://shopify/Collection/460072714480",
-            "children": []
-          },
-          {
-            "id": "1783435479103",
-            "title": "Sea Breeze Sets",
-            "category": "gid://shopify/Collection/460073140464",
-            "children": []
-          },
-          {
-            "id": "1783435488886",
-            "title": "Beach Accessories",
-            "category": "gid://shopify/Collection/461334577392",
-            "children": []
-          }
-        ]
       },
       {
         "id": "1783435680647",

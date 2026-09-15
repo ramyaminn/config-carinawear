@@ -1557,31 +1557,31 @@
     "Menus": [
       {
         "id": "1787133874213",
-        "title": "Back To School",
-        "category": "gid://shopify/Collection/488907210992",
+        "title": "NEW Fall/Winter",
+        "category": "gid://shopify/Collection/412250833136",
         "children": [
           {
             "id": "1787133901666",
-            "title": "Back To School Tops",
-            "category": "gid://shopify/Collection/488970551536",
+            "title": "New Tops",
+            "category": "gid://shopify/Collection/446234624240",
             "children": []
           },
           {
             "id": "1787133971784",
-            "title": "Back To School Shirts",
-            "category": "gid://shopify/Collection/488970682608",
+            "title": "New Bottoms",
+            "category": "gid://shopify/Collection/446234657008",
             "children": []
           },
           {
             "id": "1787134065982",
-            "title": "Back To School Pants",
-            "category": "gid://shopify/Collection/488970584304",
+            "title": "New Dresses",
+            "category": "gid://shopify/Collection/446619091184",
             "children": []
           },
           {
             "id": "1787134077930",
-            "title": "Back To School Socks",
-            "category": "gid://shopify/Collection/488970649840",
+            "title": "New Sleepwear",
+            "category": "gid://shopify/Collection/446234689776",
             "children": []
           }
         ]
@@ -1589,39 +1589,8 @@
       {
         "id": "1783435008219",
         "title": "End Of Summer Sale",
-        "category": "gid://shopify/Collection/412250833136",
-        "children": [
-          {
-            "id": "1783435073617",
-            "title": "New Tops",
-            "category": "gid://shopify/Collection/446234624240",
-            "children": []
-          },
-          {
-            "id": "1783435084449",
-            "title": "New Bottoms",
-            "category": "gid://shopify/Collection/446234657008",
-            "children": []
-          },
-          {
-            "id": "1787133715468",
-            "title": "New Sets",
-            "category": "gid://shopify/Collection/488905998576",
-            "children": []
-          },
-          {
-            "id": "1783435100082",
-            "title": "New Dresses",
-            "category": "gid://shopify/Collection/446619091184",
-            "children": []
-          },
-          {
-            "id": "1783435108531",
-            "title": "New Sleepwear",
-            "category": "gid://shopify/Collection/446234689776",
-            "children": []
-          }
-        ]
+        "category": "gid://shopify/Collection/490093478128",
+        "children": []
       },
       {
         "id": "1783434822694",

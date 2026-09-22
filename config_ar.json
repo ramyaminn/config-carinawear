@@ -1553,6 +1553,7 @@
         "id": "1787133874213",
         "title": "كولكشن الشتاء الجديد",
         "category": "gid://shopify/Collection/412250833136",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/new_winter.png?v=1790069132",
         "children": [
           {
             "id": "1787133901666",
@@ -1584,18 +1585,21 @@
         "id": "1783435008219",
         "title": "تصفيات الصيف",
         "category": "gid://shopify/Collection/490093478128",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/end_of_summer_sale.png?v=1790069132",
         "children": []
       },
       {
         "id": "1783434822694",
         "title": "الأكثر مبيعًا",
         "category": "gid://shopify/Collection/482400239856",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/best_seller.png?v=1790069132",
         "children": []
       },
       {
         "id": "1783435680647",
         "title": "توبات أساسية",
         "category": "gid://shopify/Collection/417094992112",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/basic_tops_55db7c20-9915-49bc-87b0-5c417ed6d083.png?v=1790069132",
         "children": [
           {
             "id": "1783435694645",
@@ -1664,6 +1668,7 @@
         "id": "1783463057027",
         "title": "ملابس",
         "category": "gid://shopify/Collection/413456269552",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/clothing.png?v=1790069132",
         "children": [
           {
             "id": "1783463073195",
@@ -1843,6 +1848,7 @@
         "id": "1783463857091",
         "title": "ملابس النوم",
         "category": "gid://shopify/Collection/404701446384",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/sleepwear_6fc62a0d-5ce6-487b-8f3e-c0f3d2a6a9dd.png?v=1790069132",
         "children": [
           {
             "id": "1783463888040",
@@ -1880,6 +1886,7 @@
         "id": "1783464137446",
         "title": "ملابس داخلية",
         "category": "gid://shopify/Collection/404703903984",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/underwear.png?v=1790069132",
         "children": [
           {
             "id": "1783464167766",
@@ -1973,6 +1980,7 @@
         "id": "1783464729117",
         "title": "أكسسوارات",
         "category": "gid://shopify/Collection/404706197744",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/accessories.png?v=1790069132",
         "children": [
           {
             "id": "1783464752054",
@@ -2017,6 +2025,7 @@
         "id": "1783464979526",
         "title": "كارينا هوم & بيوتي",
         "category": "",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/home_and_beauty.png?v=1790069132",
         "children": [
           {
             "id": "1783464994343",

@@ -1769,6 +1769,12 @@
             "children": []
           },
           {
+            "id": "1790162306442",
+            "title": "Knitwear",
+            "category": "gid://shopify/Collection/404700692720",
+            "children": []
+          },
+          {
             "id": "1783463546904",
             "title": "Sports & Loungewear",
             "category": "gid://shopify/Collection/417095024880",
@@ -1853,12 +1859,6 @@
                 "children": []
               }
             ]
-          },
-          {
-            "id": "1790162306442",
-            "title": "Knitwear",
-            "category": "gid://shopify/Collection/404700692720",
-            "children": []
           }
         ]
       },

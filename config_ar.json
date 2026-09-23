@@ -1677,20 +1677,20 @@
             "children": [
               {
                 "id": "1783463092645",
-                "title": "تيشرتات",
-                "category": "gid://shopify/Collection/474397704432",
-                "children": []
-              },
-              {
-                "id": "1783463105845",
                 "title": "قمصان",
                 "category": "gid://shopify/Collection/474397769968",
                 "children": []
               },
               {
-                "id": "1783463116694",
-                "title": "كيمونو",
+                "id": "1783463105845",
+                "title": "كارديجان & كيمونو",
                 "category": "gid://shopify/Collection/418975187184",
+                "children": []
+              },
+              {
+                "id": "1783463116694",
+                "title": "بونشو",
+                "category": "gid://shopify/Collection/445474701552",
                 "children": []
               },
               {
@@ -1701,6 +1701,12 @@
               },
               {
                 "id": "1783463132428",
+                "title": "تيشرتات",
+                "category": "gid://shopify/Collection/474397704432",
+                "children": []
+              },
+              {
+                "id": "1790162673721",
                 "title": "توبات جيرلي",
                 "category": "gid://shopify/Collection/452598628592",
                 "children": []
@@ -1841,6 +1847,12 @@
                 "children": []
               }
             ]
+          },
+          {
+            "id": "1790162306442",
+            "title": "ملابس تريكو",
+            "category": "gid://shopify/Collection/404700692720",
+            "children": []
           }
         ]
       },

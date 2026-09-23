@@ -1683,20 +1683,20 @@
             "children": [
               {
                 "id": "1783463092645",
-                "title": "T-Shirts",
-                "category": "gid://shopify/Collection/474397704432",
-                "children": []
-              },
-              {
-                "id": "1783463105845",
                 "title": "Shirts",
                 "category": "gid://shopify/Collection/474397769968",
                 "children": []
               },
               {
-                "id": "1783463116694",
-                "title": "Kimonos & Ponchos",
+                "id": "1783463105845",
+                "title": "Cardigans & Kimonos",
                 "category": "gid://shopify/Collection/418975187184",
+                "children": []
+              },
+              {
+                "id": "1783463116694",
+                "title": "Ponchos",
+                "category": "gid://shopify/Collection/445474701552",
                 "children": []
               },
               {
@@ -1707,6 +1707,12 @@
               },
               {
                 "id": "1783463132428",
+                "title": "T-Shirts",
+                "category": "gid://shopify/Collection/474397704432",
+                "children": []
+              },
+              {
+                "id": "1790162673721",
                 "title": "Girly Tops",
                 "category": "gid://shopify/Collection/452598628592",
                 "children": []
@@ -1847,6 +1853,12 @@
                 "children": []
               }
             ]
+          },
+          {
+            "id": "1790162306442",
+            "title": "Knitwear",
+            "category": "gid://shopify/Collection/404700692720",
+            "children": []
           }
         ]
       },

@@ -1592,7 +1592,32 @@
         "title": "End Of Summer Sale",
         "category": "gid://shopify/Collection/490093478128",
         "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/end_of_summer_sale.png?v=1790069132",
-        "children": []
+        "children": [
+          {
+            "id": "1790166896895",
+            "title": "Tops Sale",
+            "category": "gid://shopify/Collection/460074483952",
+            "children": []
+          },
+          {
+            "id": "1790166928609",
+            "title": "Bottoms Sale",
+            "category": "gid://shopify/Collection/460074516720",
+            "children": []
+          },
+          {
+            "id": "1790166949142",
+            "title": "Sleepwear Sale",
+            "category": "gid://shopify/Collection/460074615024",
+            "children": []
+          },
+          {
+            "id": "1790166967024",
+            "title": "Dresses Sale",
+            "category": "gid://shopify/Collection/460074549488",
+            "children": []
+          }
+        ]
       },
       {
         "id": "1783434822694",

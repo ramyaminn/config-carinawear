@@ -1624,15 +1624,15 @@
             "children": []
           },
           {
-            "id": "1790166967024",
-            "title": "Dresses Sale",
-            "category": "gid://shopify/Collection/460074549488",
-            "children": []
-          },
-          {
             "id": "1790267390850",
             "title": "Basics Sale",
             "category": "gid://shopify/Collection/473920700656",
+            "children": []
+          },
+          {
+            "id": "1790166967024",
+            "title": "Dresses Sale",
+            "category": "gid://shopify/Collection/460074549488",
             "children": []
           }
         ]

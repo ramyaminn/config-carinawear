@@ -1618,15 +1618,15 @@
             "children": []
           },
           {
-            "id": "1790166967024",
-            "title": "خصومات الفساتين",
-            "category": "gid://shopify/Collection/460074549488",
-            "children": []
-          },
-          {
             "id": "1790267390850",
             "title": "خصومات التوبات الأساسية",
             "category": "gid://shopify/Collection/473920700656",
+            "children": []
+          },
+          {
+            "id": "1790166967024",
+            "title": "خصومات الفساتين",
+            "category": "gid://shopify/Collection/460074549488",
             "children": []
           }
         ]

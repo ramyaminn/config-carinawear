@@ -31,7 +31,7 @@
         {
           "key": "kJDrLkurgp",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Background_Fill_1000_x_1400_px_2.png?v=1790069624&width=1000",
+          "image": "https://carina.eg/cdn/shop/files/VALU_MOB_23-9-2026.jpg?v=1790168128&width=1000",
           "video": "",
           "products": [],
           "productLength": 3,
@@ -43,20 +43,20 @@
         {
           "key": "rUaTgjLCzy",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/MOBILE_2_e5d0d1f3-8e15-43cd-b6dd-29ee534a920e.png?v=1789914726&width=3000",
+          "image": "https://carina.eg/cdn/shop/files/Background_Fill_1000_x_1400_px_2.png?v=1790069624&width=1000",
           "video": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/404704100592"
+          "category": "gid://shopify/Collection/490093478128"
         },
         {
           "key": "hzIIUeKYxX",
           "name": "Ramadan Collection",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_9.jpg?v=1788336582&width=3000",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_3.jpg?v=1790166594&width=1000",
           "video": "",
           "category": "gid://shopify/Collection/490093478128",
           "products": [],
@@ -69,6 +69,18 @@
         },
         {
           "key": "vdyTKUOnFL",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/PANTY_MOB_23-9-2026.jpg?v=1790168812&width=1000",
+          "video": "",
+          "category": "gid://shopify/Collection/404704100592",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        },
+        {
+          "key": "",
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_53879882-3f97-4849-b520-d2aca21dae90.jpg?v=1789915297&width=3000",
           "video": "",

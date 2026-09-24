@@ -1628,6 +1628,12 @@
             "title": "Dresses Sale",
             "category": "gid://shopify/Collection/460074549488",
             "children": []
+          },
+          {
+            "id": "1790267390850",
+            "title": "Basics Sale",
+            "category": "gid://shopify/Collection/473920700656",
+            "children": []
           }
         ]
       },
@@ -1795,7 +1801,7 @@
           },
           {
             "id": "1783463494956",
-            "title": "Jeans",
+            "title": "DENIM",
             "category": "gid://shopify/Collection/417207812336",
             "children": []
           },

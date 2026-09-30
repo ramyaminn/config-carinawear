@@ -1571,7 +1571,7 @@
         "id": "1787133874213",
         "title": "F/W Collection",
         "category": "gid://shopify/Collection/412250833136",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/new_winter.png?v=1790069132",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/FW_COLLECTION.png?v=1790760888",
         "children": [
           {
             "id": "1787133901666",
@@ -1638,6 +1638,32 @@
         ]
       },
       {
+        "id": "1783435694645",
+        "title": "Body Carina",
+        "category": "gid://shopify/Collection/458261594352",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/BODY_CARINA_f1f3e3ef-c0e2-43f0-b322-20d7609dc0b7.png?v=1790760888",
+        "children": [
+          {
+            "id": "1783435706465",
+            "title": "Breathable Viscose",
+            "category": "gid://shopify/Collection/458280599792",
+            "children": []
+          },
+          {
+            "id": "1783435709927",
+            "title": "Egyptian Cotton",
+            "category": "gid://shopify/Collection/458280534256",
+            "children": []
+          },
+          {
+            "id": "1783435718177",
+            "title": "Microfiber Magic",
+            "category": "gid://shopify/Collection/458281222384",
+            "children": []
+          }
+        ]
+      },
+      {
         "id": "1783434822694",
         "title": "Best Sellers",
         "category": "gid://shopify/Collection/482400239856",
@@ -1650,31 +1676,6 @@
         "category": "gid://shopify/Collection/417094992112",
         "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/basic_tops_55db7c20-9915-49bc-87b0-5c417ed6d083.png?v=1790069132",
         "children": [
-          {
-            "id": "1783435694645",
-            "title": "Carina Basics",
-            "category": "gid://shopify/Collection/458261594352",
-            "children": [
-              {
-                "id": "1783435706465",
-                "title": "Breathable Viscose",
-                "category": "gid://shopify/Collection/458280599792",
-                "children": []
-              },
-              {
-                "id": "1783435709927",
-                "title": "Egyptian Cotton",
-                "category": "gid://shopify/Collection/458280534256",
-                "children": []
-              },
-              {
-                "id": "1783435718177",
-                "title": "Microfiber Magic",
-                "category": "gid://shopify/Collection/458281222384",
-                "children": []
-              }
-            ]
-          },
           {
             "id": "1783435848608",
             "title": "Tank Top",
@@ -2079,26 +2080,26 @@
             "title": "Hijabi Add Ons",
             "category": "gid://shopify/Collection/417207943408",
             "children": []
-          }
-        ]
-      },
-      {
-        "id": "1783464979526",
-        "title": "Home & Beauty",
-        "category": "",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/home_and_beauty.png?v=1790069132",
-        "children": [
-          {
-            "id": "1783464994343",
-            "title": "Aromatherapy Collection",
-            "category": "gid://shopify/Collection/459875451120",
-            "children": []
           },
           {
-            "id": "1783465001109",
-            "title": "Carina Beauty",
-            "category": "gid://shopify/Collection/417208140016",
-            "children": []
+            "id": "1783464979526",
+            "title": "Home & Beauty",
+            "category": "",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/home_and_beauty.png?v=1790069132",
+            "children": [
+              {
+                "id": "1783464994343",
+                "title": "Aromatherapy Collection",
+                "category": "gid://shopify/Collection/459875451120",
+                "children": []
+              },
+              {
+                "id": "1783465001109",
+                "title": "Carina Beauty",
+                "category": "gid://shopify/Collection/417208140016",
+                "children": []
+              }
+            ]
           }
         ]
       }

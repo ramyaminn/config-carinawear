@@ -31,7 +31,7 @@
         {
           "key": "kJDrLkurgp",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/valu_4.jpg?v=1790255576&width=1000",
+          "image": "https://carina.eg/cdn/shop/files/valu_1.jpg?v=1790851724&width=1000",
           "video": "",
           "products": [],
           "productLength": 3,
@@ -70,7 +70,7 @@
         {
           "key": "vdyTKUOnFL",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/PANTY_MOB_23-9-2026.jpg?v=1790168812&width=1000",
+          "image": "https://carina.eg/cdn/shop/files/panty.jpg?v=1790851708&width=1000",
           "video": "",
           "category": "gid://shopify/Collection/404704100592",
           "products": [],
@@ -82,7 +82,7 @@
         {
           "key": "",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_53879882-3f97-4849-b520-d2aca21dae90.jpg?v=1789915297&width=3000",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_51d363b6-aba2-4fb4-8bb3-dd6520563191.jpg?v=1790852977&width=1000",
           "video": "",
           "category": "gid://shopify/Collection/404704035056",
           "products": [],
@@ -252,7 +252,7 @@
           "name": "DENIM",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Untitled-1_copy_428bcf59-ef94-4bc6-9289-b4e1f8fd5dfd.jpg?v=1790248893&width=600",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC02201.jpg?v=1790848828&width=600",
           "tag": null,
           "category": "gid://shopify/Collection/417207812336",
           "showDescription": false,
@@ -272,7 +272,7 @@
           "name": "Sleepwear",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/1_4698bb4f-b583-49ec-aba3-e152a33ce5b1.jpg?v=1790250497&width=600",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01481.jpg?v=1790848959&width=600",
           "tag": null,
           "category": "gid://shopify/Collection/404701446384",
           "showDescription": false,
@@ -292,7 +292,7 @@
           "name": "Ponchos",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Untitled-111_copy.jpg?v=1790250033&width=600",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01857.jpg?v=1790848910&width=600",
           "tag": null,
           "category": "gid://shopify/Collection/445474701552",
           "showDescription": false,
@@ -353,9 +353,9 @@
           "name": "Body Carina",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_jpg.jpg?v=1790674707&width=1200",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01632.jpg?v=1790848411&width=1200",
           "tag": null,
-          "category": "gid://shopify/Collection/490093478128",
+          "category": "gid://shopify/Collection/458261594352",
           "showDescription": false,
           "productType": false,
           "orderby": null,
@@ -373,7 +373,7 @@
           "name": "New Arrivals",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_3_jpg.jpg?v=1790674707&width=1200",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01435_fb2b9ef8-e0d0-4d2c-9952-3f38d0bbc56f.jpg?v=1790848366&width=1200",
           "tag": null,
           "category": "gid://shopify/Collection/412250833136",
           "showDescription": false,
@@ -539,7 +539,7 @@
           "name": "BRAS",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Image_z5u4sez5u4sez5u4.jpg?v=1790678987&width=800",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01335_6654aa8c-a934-4e64-b93c-848d04c28751.jpg?v=1790848700&width=800",
           "tag": null,
           "category": "gid://shopify/Collection/404704035056",
           "showDescription": false,
@@ -600,7 +600,7 @@
           "name": "SLEEPWEAR",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Image_2k2o992k2o992k2o.jpg?v=1790678409&width=800",
+          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01531.jpg?v=1790848439&width=800",
           "tag": null,
           "category": "gid://shopify/Collection/404701446384",
           "showDescription": false,
@@ -1819,6 +1819,11 @@
             "children": []
           },
           {
+            "id": "1783435409507",
+            "title": "Maternity",
+            "category": "gid://shopify/Collection/491148607705"
+          },
+          {
             "id": "1783463546904",
             "title": "Sports & Loungewear",
             "category": "gid://shopify/Collection/417095024880",
@@ -1860,49 +1865,6 @@
             "title": "Carina 🎀 Notfound",
             "category": "gid://shopify/Collection/439871701232",
             "children": []
-          },
-          {
-            "id": "1783435409507",
-            "title": "Beachwear",
-            "category": "gid://shopify/Collection/420091986160",
-            "children": [
-              {
-                "id": "1783435425357",
-                "title": "Wave-Redy Tops",
-                "category": "gid://shopify/Collection/460073304304",
-                "children": []
-              },
-              {
-                "id": "1783435447371",
-                "title": "Sandy Bottoms",
-                "category": "gid://shopify/Collection/460073042160",
-                "children": []
-              },
-              {
-                "id": "1783435457037",
-                "title": "Fun Dresses",
-                "category": "gid://shopify/Collection/460072681712",
-                "children": []
-              },
-              {
-                "id": "1783435469054",
-                "title": "Bright Kimonos",
-                "category": "gid://shopify/Collection/460072714480",
-                "children": []
-              },
-              {
-                "id": "1783435479103",
-                "title": "Sea Breeze Sets",
-                "category": "gid://shopify/Collection/460073140464",
-                "children": []
-              },
-              {
-                "id": "1783435488886",
-                "title": "Beach Accessories",
-                "category": "gid://shopify/Collection/461334577392",
-                "children": []
-              }
-            ]
           }
         ]
       },

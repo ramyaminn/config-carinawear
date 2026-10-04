@@ -29,6 +29,18 @@
       "marginLeft": 0,
       "items": [
         {
+          "key": "",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_9a1d640b-dd82-42ad-b2c6-3c1190e10f6a.png?v=1791124483&width=800",
+          "video": "",
+          "category": "gid://shopify/Collection/412250833136",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        },
+        {
           "key": "kJDrLkurgp",
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/valu_1.jpg?v=1790851724&width=1000",
@@ -39,33 +51,6 @@
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "category": "gid://shopify/Collection/490093478128"
-        },
-        {
-          "key": "rUaTgjLCzy",
-          "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Background_Fill_1000_x_1400_px_2.png?v=1790069624&width=1000",
-          "video": "",
-          "products": [],
-          "productLength": 3,
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "category": "gid://shopify/Collection/490093478128"
-        },
-        {
-          "key": "hzIIUeKYxX",
-          "name": "Ramadan Collection",
-          "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/offer_3.jpg?v=1790255607&width=1000",
-          "video": "",
-          "category": "gid://shopify/Collection/490093478128",
-          "products": [],
-          "productLength": 3,
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "productCategoryMenuStyle": "menu",
-          "allowFilterMultipleCategory": false
         },
         {
           "key": "vdyTKUOnFL",
@@ -92,16 +77,31 @@
           "defaultShowProduct": false
         },
         {
-          "key": "",
+          "key": "hzIIUeKYxX",
+          "name": "Ramadan Collection",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_5.jpg?v=1788336763&width=800",
+          "image": "https://carina.eg/cdn/shop/files/banner_4_2efbc120-bd1d-4579-94e2-05e4cf26054b.png?v=1791107546&width=800",
           "video": "",
-          "category": "gid://shopify/Collection/485426299120",
+          "category": "gid://shopify/Collection/490093478128",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false
+          "defaultShowProduct": false,
+          "productCategoryMenuStyle": "menu",
+          "allowFilterMultipleCategory": false
+        },
+        {
+          "key": "rUaTgjLCzy",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Background_Fill_1000_x_1400_px_2.png?v=1790069624&width=1000",
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": "gid://shopify/Collection/490093478128"
         }
       ],
       "marginBottom": 0,

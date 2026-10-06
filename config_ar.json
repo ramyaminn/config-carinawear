@@ -82,7 +82,7 @@
         {
           "key": "rUaTgjLCzy",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_3_867474cf-c5f2-40ce-8a0b-7496962fbfcd.jpg?v=1791194333&width=800",
+          "image": "https://carina.eg/cdn/shop/files/Free_shipping__banner_6-10-2026_1.jpg?v=1791285510&width=800",
           "video": "",
           "products": [],
           "productLength": 3,
@@ -1549,6 +1549,13 @@
   "Datetime": "2026-06-01T11:57:47.493747",
   "Dashboard": {
     "Menus": [
+      {
+        "id": "1783434822695",
+        "title": "Pink Collection",
+        "category": "gid://shopify/Collection/491312316633",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
+        "children": []
+      },
       {
         "id": "1787133874213",
         "title": "كولكشن الشتاء الجديد",

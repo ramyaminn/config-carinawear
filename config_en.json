@@ -102,6 +102,18 @@
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "category": "gid://shopify/Collection/490093478128"
+        },
+        {
+          "key": "rUaTgjLCzy",
+          "type": "image",
+          "image": "",
+          "video": "https://www.youtube.com/embed/63AZ-GDOXhk?playsinline=1&autoplay=1&controls=0&mute=1&loop=1&playlist=63AZ-GDOXhk&enablejsapi=1&rel=0&modestbranding=1&origin=https%3A%2F%2Fcarina.eg",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": "gid://shopify/Collection/490093478128"
         }
       ],
       "marginBottom": 0,

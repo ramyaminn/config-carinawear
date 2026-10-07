@@ -2083,9 +2083,9 @@
     ],
     "Collections": [],
     "PromoCodePopup": {
-      "enabled": false,
-      "code": "CR5",
-      "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/App_2_.jpg_1.jpg?v=1788086905"
+      "enabled": true,
+      "code": "CN17",
+      "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/app-bss-banner-popup_7cb1ae6c-5a6b-4baa-9d0e-18d595debb85_Gemini_Generated_Image_tlfcpztlfcpztlfc.jpg?v=17913783305"
     },
     "ProductBadges": {
       "enabled": true,

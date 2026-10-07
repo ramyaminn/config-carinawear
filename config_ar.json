@@ -151,7 +151,7 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/485426299120",
+      "category": "gid://shopify/Collection/473920700656",
       "name": "اشتري 5 بسعر 2",
       "layout": "twoColumn",
       "isSnapping": false,
@@ -1550,13 +1550,6 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1783434822695",
-        "title": "Pink Collection",
-        "category": "gid://shopify/Collection/491312316633",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
-        "children": []
-      },
-      {
         "id": "1787133874213",
         "title": "كولكشن الشتاء الجديد",
         "category": "gid://shopify/Collection/412250833136",
@@ -1589,42 +1582,11 @@
         ]
       },
       {
-        "id": "1783435008219",
-        "title": "تصفيات الصيف",
-        "category": "gid://shopify/Collection/490093478128",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/end_of_summer_sale.png?v=1790069132",
-        "children": [
-          {
-            "id": "1790166896895",
-            "title": "خصومات التوبات",
-            "category": "gid://shopify/Collection/460074483952",
-            "children": []
-          },
-          {
-            "id": "1790166928609",
-            "title": "خصومات البنطلونات و الجيبات",
-            "category": "gid://shopify/Collection/460074516720",
-            "children": []
-          },
-          {
-            "id": "1790166949142",
-            "title": "خصومات ملابس النوم",
-            "category": "gid://shopify/Collection/460074615024",
-            "children": []
-          },
-          {
-            "id": "1790267390850",
-            "title": "خصومات التوبات الأساسية",
-            "category": "gid://shopify/Collection/473920700656",
-            "children": []
-          },
-          {
-            "id": "1790166967024",
-            "title": "خصومات الفساتين",
-            "category": "gid://shopify/Collection/460074549488",
-            "children": []
-          }
-        ]
+        "id": "1783434822694",
+        "title": "الأكثر مبيعًا",
+        "category": "gid://shopify/Collection/482400239856",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/best_seller.png?v=1790069132",
+        "children": []
       },
       {
         "id": "1783435694645",
@@ -1653,62 +1615,55 @@
         ]
       },
       {
-        "id": "1783434822694",
-        "title": "الأكثر مبيعًا",
-        "category": "gid://shopify/Collection/482400239856",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/best_seller.png?v=1790069132",
-        "children": []
-      },
-      {
-        "id": "1783435680647",
-        "title": "توبات أساسية",
-        "category": "gid://shopify/Collection/417094992112",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/basic_tops_55db7c20-9915-49bc-87b0-5c417ed6d083.png?v=1790069132",
-        "children": [
-          {
-            "id": "1783435848608",
-            "title": "توب كت وحمالات",
-            "category": "gid://shopify/Collection/446236229872",
-            "children": []
-          },
-          {
-            "id": "1783435857140",
-            "title": "توب نص كم",
-            "category": "gid://shopify/Collection/446236197104",
-            "children": []
-          },
-          {
-            "id": "1783435865063",
-            "title": "توب قصير",
-            "category": "gid://shopify/Collection/446236295408",
-            "children": []
-          },
-          {
-            "id": "1783435872189",
-            "title": "توب بكم",
-            "category": "gid://shopify/Collection/446236131568",
-            "children": []
-          },
-          {
-            "id": "1783435879605",
-            "title": "بلا درزات",
-            "category": "gid://shopify/Collection/458317463792",
-            "children": []
-          },
-          {
-            "id": "1783435888805",
-            "title": "كارينا  🎀 نوت فاوند",
-            "category": "gid://shopify/Collection/439871701232",
-            "children": []
-          }
-        ]
-      },
-      {
         "id": "1783463057027",
         "title": "ملابس",
         "category": "gid://shopify/Collection/413456269552",
         "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/clothing.png?v=1790069132",
         "children": [
+          {
+            "id": "1783435680647",
+            "title": "توبات أساسية",
+            "category": "gid://shopify/Collection/417094992112",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/basic_tops_55db7c20-9915-49bc-87b0-5c417ed6d083.png?v=1790069132",
+            "children": [
+              {
+                "id": "1783435848608",
+                "title": "توب كت وحمالات",
+                "category": "gid://shopify/Collection/446236229872",
+                "children": []
+              },
+              {
+                "id": "1783435857140",
+                "title": "توب نص كم",
+                "category": "gid://shopify/Collection/446236197104",
+                "children": []
+              },
+              {
+                "id": "1783435865063",
+                "title": "توب قصير",
+                "category": "gid://shopify/Collection/446236295408",
+                "children": []
+              },
+              {
+                "id": "1783435872189",
+                "title": "توب بكم",
+                "category": "gid://shopify/Collection/446236131568",
+                "children": []
+              },
+              {
+                "id": "1783435879605",
+                "title": "بلا درزات",
+                "category": "gid://shopify/Collection/458317463792",
+                "children": []
+              },
+              {
+                "id": "1783435888805",
+                "title": "كارينا  🎀 نوت فاوند",
+                "category": "gid://shopify/Collection/439871701232",
+                "children": []
+              }
+            ]
+          },
           {
             "id": "1783463073195",
             "title": "توبات ",
@@ -1858,44 +1813,6 @@
         ]
       },
       {
-        "id": "1783463857091",
-        "title": "ملابس النوم",
-        "category": "gid://shopify/Collection/404701446384",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/sleepwear_6fc62a0d-5ce6-487b-8f3e-c0f3d2a6a9dd.png?v=1790069132",
-        "children": [
-          {
-            "id": "1783463888040",
-            "title": "بيجامات و أرواب",
-            "category": "gid://shopify/Collection/404701511920",
-            "children": []
-          },
-          {
-            "id": "1783463895089",
-            "title": "قمصان النوم",
-            "category": "gid://shopify/Collection/404701413616",
-            "children": []
-          },
-          {
-            "id": "1783463898539",
-            "title": "لانجيري",
-            "category": "gid://shopify/Collection/417097744624",
-            "children": []
-          },
-          {
-            "id": "1783463902472",
-            "title": "أساسيات العروسة",
-            "category": "gid://shopify/Collection/480001032432",
-            "children": []
-          },
-          {
-            "id": "1783463913122",
-            "title": "ملابس نوم جيرلي",
-            "category": "gid://shopify/Collection/456670118128",
-            "children": []
-          }
-        ]
-      },
-      {
         "id": "1783464137446",
         "title": "ملابس داخلية",
         "category": "gid://shopify/Collection/404703903984",
@@ -1990,6 +1907,44 @@
         ]
       },
       {
+        "id": "1783463857091",
+        "title": "ملابس النوم",
+        "category": "gid://shopify/Collection/404701446384",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/sleepwear_6fc62a0d-5ce6-487b-8f3e-c0f3d2a6a9dd.png?v=1790069132",
+        "children": [
+          {
+            "id": "1783463888040",
+            "title": "بيجامات و أرواب",
+            "category": "gid://shopify/Collection/404701511920",
+            "children": []
+          },
+          {
+            "id": "1783463895089",
+            "title": "قمصان النوم",
+            "category": "gid://shopify/Collection/404701413616",
+            "children": []
+          },
+          {
+            "id": "1783463898539",
+            "title": "لانجيري",
+            "category": "gid://shopify/Collection/417097744624",
+            "children": []
+          },
+          {
+            "id": "1783463902472",
+            "title": "أساسيات العروسة",
+            "category": "gid://shopify/Collection/480001032432",
+            "children": []
+          },
+          {
+            "id": "1783463913122",
+            "title": "ملابس نوم جيرلي",
+            "category": "gid://shopify/Collection/456670118128",
+            "children": []
+          }
+        ]
+      },
+      {
         "id": "1783464729117",
         "title": "أكسسوارات",
         "category": "gid://shopify/Collection/404706197744",
@@ -2052,6 +2007,13 @@
             ]
           }
         ]
+      },
+      {
+        "id": "1783434822695",
+        "title": "بينك كوليكشن",
+        "category": "gid://shopify/Collection/491312316633",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
+        "children": []
       }
     ],
     "PromotionPages": [
@@ -2061,10 +2023,10 @@
         "pageSubtitle": "أفضل القطع بأفضل الأسعار",
         "cards": [
           {
-            "title": "تصفيات الصيف!",
+            "title": "خصومات التوبات الأساسية!",
             "subtitle": "اشتري 5 بسعر 2",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/485426299120"
+            "collection": "gid://shopify/Collection/473920700656"
           },
           {
             "title": "متفوتيش الفرصة",

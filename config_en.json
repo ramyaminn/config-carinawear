@@ -151,7 +151,7 @@
       "backgroundColor": null
     },
     {
-      "category": "gid://shopify/Collection/485426299120",
+      "category": "gid://shopify/Collection/473920700656",
       "name": "Buy 2 Get 3 FREE",
       "layout": "twoColumn",
       "isSnapping": false,
@@ -1556,13 +1556,6 @@
   "Dashboard": {
     "Menus": [
       {
-        "id": "1783434822695",
-        "title": "Pink Collection",
-        "category": "gid://shopify/Collection/491312316633",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
-        "children": []
-      },
-      {
         "id": "1787133874213",
         "title": "F/W Collection",
         "category": "gid://shopify/Collection/412250833136",
@@ -1595,42 +1588,11 @@
         ]
       },
       {
-        "id": "1783435008219",
-        "title": "BUY 2 GET 3 FREE",
-        "category": "gid://shopify/Collection/490093478128",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/end_of_summer_sale.png?v=1790069132",
-        "children": [
-          {
-            "id": "1790166896895",
-            "title": "Tops Sale",
-            "category": "gid://shopify/Collection/460074483952",
-            "children": []
-          },
-          {
-            "id": "1790166928609",
-            "title": "Bottoms Sale",
-            "category": "gid://shopify/Collection/460074516720",
-            "children": []
-          },
-          {
-            "id": "1790166949142",
-            "title": "Sleepwear Sale",
-            "category": "gid://shopify/Collection/460074615024",
-            "children": []
-          },
-          {
-            "id": "1790267390850",
-            "title": "Basics Sale",
-            "category": "gid://shopify/Collection/473920700656",
-            "children": []
-          },
-          {
-            "id": "1790166967024",
-            "title": "Dresses Sale",
-            "category": "gid://shopify/Collection/460074549488",
-            "children": []
-          }
-        ]
+        "id": "1783434822694",
+        "title": "Best Sellers",
+        "category": "gid://shopify/Collection/482400239856",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/best_seller.png?v=1790069132",
+        "children": []
       },
       {
         "id": "1783435694645",
@@ -1659,62 +1621,55 @@
         ]
       },
       {
-        "id": "1783434822694",
-        "title": "Best Sellers",
-        "category": "gid://shopify/Collection/482400239856",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/best_seller.png?v=1790069132",
-        "children": []
-      },
-      {
-        "id": "1783435680647",
-        "title": "Basic Tops",
-        "category": "gid://shopify/Collection/417094992112",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/basic_tops_55db7c20-9915-49bc-87b0-5c417ed6d083.png?v=1790069132",
-        "children": [
-          {
-            "id": "1783435848608",
-            "title": "Tank Top",
-            "category": "gid://shopify/Collection/446236229872",
-            "children": []
-          },
-          {
-            "id": "1783435857140",
-            "title": "Short Sleeve",
-            "category": "gid://shopify/Collection/446236197104",
-            "children": []
-          },
-          {
-            "id": "1783435865063",
-            "title": "Cropped",
-            "category": "gid://shopify/Collection/446236295408",
-            "children": []
-          },
-          {
-            "id": "1783435872189",
-            "title": "Long Sleeve",
-            "category": "gid://shopify/Collection/446236131568",
-            "children": []
-          },
-          {
-            "id": "1783435879605",
-            "title": "Seamless",
-            "category": "gid://shopify/Collection/458317463792",
-            "children": []
-          },
-          {
-            "id": "1783435888805",
-            "title": "Carina 🎀 Notfound",
-            "category": "gid://shopify/Collection/439871701232",
-            "children": []
-          }
-        ]
-      },
-      {
         "id": "1783463057027",
         "title": "Clothing",
         "category": "gid://shopify/Collection/413456269552",
         "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/clothing.png?v=1790069132",
         "children": [
+          {
+            "id": "1783435680647",
+            "title": "Basic Tops",
+            "category": "gid://shopify/Collection/417094992112",
+            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/basic_tops_55db7c20-9915-49bc-87b0-5c417ed6d083.png?v=1790069132",
+            "children": [
+              {
+                "id": "1783435848608",
+                "title": "Tank Top",
+                "category": "gid://shopify/Collection/446236229872",
+                "children": []
+              },
+              {
+                "id": "1783435857140",
+                "title": "Short Sleeve",
+                "category": "gid://shopify/Collection/446236197104",
+                "children": []
+              },
+              {
+                "id": "1783435865063",
+                "title": "Cropped",
+                "category": "gid://shopify/Collection/446236295408",
+                "children": []
+              },
+              {
+                "id": "1783435872189",
+                "title": "Long Sleeve",
+                "category": "gid://shopify/Collection/446236131568",
+                "children": []
+              },
+              {
+                "id": "1783435879605",
+                "title": "Seamless",
+                "category": "gid://shopify/Collection/458317463792",
+                "children": []
+              },
+              {
+                "id": "1783435888805",
+                "title": "Carina 🎀 Notfound",
+                "category": "gid://shopify/Collection/439871701232",
+                "children": []
+              }
+            ]
+          },
           {
             "id": "1783463073195",
             "title": "Tops",
@@ -1864,44 +1819,6 @@
         ]
       },
       {
-        "id": "1783463857091",
-        "title": "Sleepwear",
-        "category": "gid://shopify/Collection/404701446384",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/sleepwear_6fc62a0d-5ce6-487b-8f3e-c0f3d2a6a9dd.png?v=1790069132",
-        "children": [
-          {
-            "id": "1783463888040",
-            "title": "PJs & Robes",
-            "category": "gid://shopify/Collection/404701511920",
-            "children": []
-          },
-          {
-            "id": "1783463895089",
-            "title": "Nightgowns",
-            "category": "gid://shopify/Collection/404701413616",
-            "children": []
-          },
-          {
-            "id": "1783463898539",
-            "title": "Lingerie",
-            "category": "gid://shopify/Collection/417097744624",
-            "children": []
-          },
-          {
-            "id": "1783463902472",
-            "title": "Bridal Essentials",
-            "category": "gid://shopify/Collection/480001032432",
-            "children": []
-          },
-          {
-            "id": "1783463913122",
-            "title": "Girly Sleepwear",
-            "category": "gid://shopify/Collection/456670118128",
-            "children": []
-          }
-        ]
-      },
-      {
         "id": "1783464137446",
         "title": "Underwear",
         "category": "gid://shopify/Collection/404703903984",
@@ -1996,6 +1913,44 @@
         ]
       },
       {
+        "id": "1783463857091",
+        "title": "Sleepwear",
+        "category": "gid://shopify/Collection/404701446384",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/sleepwear_6fc62a0d-5ce6-487b-8f3e-c0f3d2a6a9dd.png?v=1790069132",
+        "children": [
+          {
+            "id": "1783463888040",
+            "title": "PJs & Robes",
+            "category": "gid://shopify/Collection/404701511920",
+            "children": []
+          },
+          {
+            "id": "1783463895089",
+            "title": "Nightgowns",
+            "category": "gid://shopify/Collection/404701413616",
+            "children": []
+          },
+          {
+            "id": "1783463898539",
+            "title": "Lingerie",
+            "category": "gid://shopify/Collection/417097744624",
+            "children": []
+          },
+          {
+            "id": "1783463902472",
+            "title": "Bridal Essentials",
+            "category": "gid://shopify/Collection/480001032432",
+            "children": []
+          },
+          {
+            "id": "1783463913122",
+            "title": "Girly Sleepwear",
+            "category": "gid://shopify/Collection/456670118128",
+            "children": []
+          }
+        ]
+      },
+      {
         "id": "1783464729117",
         "title": "Accessories",
         "category": "gid://shopify/Collection/404706197744",
@@ -2058,6 +2013,13 @@
             ]
           }
         ]
+      },
+      {
+        "id": "1783434822695",
+        "title": "Pink Collection",
+        "category": "gid://shopify/Collection/491312316633",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
+        "children": []
       }
     ],
     "PromotionPages": [
@@ -2067,10 +2029,10 @@
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
           {
-            "title": "END OF SUMMER SALE!",
+            "title": "Basics Sale!",
             "subtitle": "BUY 2 GET 3 FREE",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/485426299120"
+            "collection": "gid://shopify/Collection/473920700656"
           },
           {
             "title": "Don't Miss Out",

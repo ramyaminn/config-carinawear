@@ -90,6 +90,18 @@
           "bannerWithProduct": false,
           "defaultShowProduct": false,
           "category": "gid://shopify/Collection/490093478128"
+        },
+        {
+          "key": "rUaTgjLCzy",
+          "type": "image",
+          "image": "https://www.youtube.com/embed/63AZ-GDOXhk?playsinline=1&autoplay=1&controls=0&mute=1&loop=1&playlist=63AZ-GDOXhk&enablejsapi=1&rel=0&modestbranding=1&origin=https%3A%2F%2Fcarina.eg",
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": "gid://shopify/Collection/490093478128"
         }
       ],
       "marginBottom": 0,
@@ -361,7 +373,7 @@
           "name": "New Arrivals",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01435_fb2b9ef8-e0d0-4d2c-9952-3f38d0bbc56f.jpg?v=1790848366&width=1200",
+          "image": "https://carina.eg/cdn/shop/files/Untitled-3_photoblock_copy.jpg?v=1791357670&width=1200",
           "tag": null,
           "category": "gid://shopify/Collection/412250833136",
           "showDescription": false,

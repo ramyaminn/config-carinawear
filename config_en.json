@@ -1790,6 +1790,7 @@
         "id": "1783463546904",
         "title": "Sports & Loungewear",
         "category": "gid://shopify/Collection/417095024880",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/SPORTSAND_LOUNGEWEAR.png?v=1791904392",
         "children": [
           {
             "id": "1783463576984",
@@ -2027,12 +2028,6 @@
         "pageTitle": "The BIGGEST DISCOUNTS in Egypt",
         "pageSubtitle": "Must Have Pieces at a Great Value!",
         "cards": [
-          {
-            "title": "Basics Sale!",
-            "subtitle": "BUY 2 GET 3 FREE",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/473920700656"
-          },
           {
             "title": "Don't Miss Out",
             "subtitle": "UP TO 40% OFF GIRLY",

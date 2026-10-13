@@ -1784,6 +1784,7 @@
         "id": "1783463546904",
         "title": "ملابس مريحة رياضية",
         "category": "gid://shopify/Collection/417095024880",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/SPORTSAND_LOUNGEWEAR.png?v=1791904392",
         "children": [
           {
             "id": "1783463576984",
@@ -2022,12 +2023,6 @@
         "pageSubtitle": "أفضل القطع بأفضل الأسعار",
         "cards": [
           {
-            "title": "خصومات التوبات الأساسية!",
-            "subtitle": "اشتري 5 بسعر 2",
-            "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image3_app.png?v=1788349779",
-            "collection": "gid://shopify/Collection/473920700656"
-          },
-          {
             "title": "متفوتيش الفرصة",
             "subtitle": "خصم حتى 40% على الجيرلي",
             "image": "https://carina.eg/cdn/shop/files/2026-09-01_150922_copy_800x.jpg?v=1788264692",
@@ -2035,7 +2030,7 @@
           },
           {
             "title": "اشتري أكتر، وفري أكتر",
-            "subtitle": "اكتشفي العروض المميزة",
+            "subtitle": "طقّمي ووّفري",
             "image": "https://carina.eg/cdn/shop/files/Untitled-3_jpg__jpg_800x.jpg?v=1790678678",
             "collection": "gid://shopify/Collection/444634890480"
           }

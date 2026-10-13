@@ -1773,37 +1773,6 @@
             "category": "gid://shopify/Collection/491148607705"
           },
           {
-            "id": "1783463546904",
-            "title": "Sports & Loungewear",
-            "category": "gid://shopify/Collection/417095024880",
-            "children": [
-              {
-                "id": "1783463576984",
-                "title": "Tops",
-                "category": "gid://shopify/Collection/404705968368",
-                "children": []
-              },
-              {
-                "id": "1783463584651",
-                "title": "Bottoms",
-                "category": "gid://shopify/Collection/404706033904",
-                "children": []
-              },
-              {
-                "id": "1783463592018",
-                "title": "Sets",
-                "category": "gid://shopify/Collection/404705935600",
-                "children": []
-              },
-              {
-                "id": "1783463599218",
-                "title": "Workout",
-                "category": "gid://shopify/Collection/469246607600",
-                "children": []
-              }
-            ]
-          },
-          {
             "id": "1783463747550",
             "title": "Match & Save",
             "category": "gid://shopify/Collection/444634890480",
@@ -1813,6 +1782,37 @@
             "id": "1783463767065",
             "title": "Carina 🎀 Notfound",
             "category": "gid://shopify/Collection/439871701232",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1783463546904",
+        "title": "Sports & Loungewear",
+        "category": "gid://shopify/Collection/417095024880",
+        "children": [
+          {
+            "id": "1783463576984",
+            "title": "Tops",
+            "category": "gid://shopify/Collection/404705968368",
+            "children": []
+          },
+          {
+            "id": "1783463584651",
+            "title": "Bottoms",
+            "category": "gid://shopify/Collection/404706033904",
+            "children": []
+          },
+          {
+            "id": "1783463592018",
+            "title": "Sets",
+            "category": "gid://shopify/Collection/404705935600",
+            "children": []
+          },
+          {
+            "id": "1783463599218",
+            "title": "Workout",
+            "category": "gid://shopify/Collection/469246607600",
             "children": []
           }
         ]

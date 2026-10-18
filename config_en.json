@@ -31,6 +31,18 @@
         {
           "key": "",
           "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/1_d4fcafd2-a3a9-4bb7-b761-03026af265aa.png?v=1792334013&width=3000",
+          "video": "",
+          "category": "gid://shopify/Collection/412250833136",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false
+        },
+        {
+          "key": "",
+          "type": "image",
           "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_9a1d640b-dd82-42ad-b2c6-3c1190e10f6a.png?v=1791124483&width=800",
           "video": "",
           "category": "gid://shopify/Collection/412250833136",

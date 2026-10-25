@@ -1580,12 +1580,6 @@
             "children": []
           },
           {
-            "id": "1787134065982",
-            "title": "فساتين جديدة",
-            "category": "gid://shopify/Collection/446619091184",
-            "children": []
-          },
-          {
             "id": "1787134077930",
             "title": "ملابس نوم جديدة",
             "category": "gid://shopify/Collection/446234689776",
@@ -1638,39 +1632,27 @@
             "category": "gid://shopify/Collection/417094992112",
             "children": [
               {
-                "id": "1783435848608",
-                "title": "توب كت وحمالات",
-                "category": "gid://shopify/Collection/446236229872",
-                "children": []
-              },
-              {
-                "id": "1783435857140",
-                "title": "توب نص كم",
-                "category": "gid://shopify/Collection/446236197104",
-                "children": []
-              },
-              {
-                "id": "1783435865063",
-                "title": "توب قصير",
-                "category": "gid://shopify/Collection/446236295408",
-                "children": []
-              },
-              {
-                "id": "1783435872189",
-                "title": "توب بكم",
-                "category": "gid://shopify/Collection/446236131568",
-                "children": []
-              },
-              {
                 "id": "1783435879605",
-                "title": "بلا درزات",
+                "title": "بدون خياطة",
                 "category": "gid://shopify/Collection/458317463792",
                 "children": []
               },
               {
-                "id": "1783435888805",
-                "title": "كارينا  🎀 نوت فاوند",
-                "category": "gid://shopify/Collection/439871701232",
+                "id": "1783435872189",
+                "title": "توبات بأكمام طويلة",
+                "category": "gid://shopify/Collection/446236131568",
+                "children": []
+              },
+              {
+                "id": "1783435857140",
+                "title": "توبات نص كم",
+                "category": "gid://shopify/Collection/446236197104",
+                "children": []
+              },
+              {
+                "id": "1783435848608",
+                "title": "تانك توب",
+                "category": "gid://shopify/Collection/446236229872",
                 "children": []
               }
             ]
@@ -1715,12 +1697,6 @@
                 "title": "تيشرتات",
                 "category": "gid://shopify/Collection/474397704432",
                 "children": []
-              },
-              {
-                "id": "1790162673721",
-                "title": "توبات جيرلي",
-                "category": "gid://shopify/Collection/452598628592",
-                "children": []
               }
             ]
           },
@@ -1746,12 +1722,6 @@
                 "title": "جيبات",
                 "category": "gid://shopify/Collection/480525222128",
                 "children": []
-              },
-              {
-                "id": "1783463400374",
-                "title": "بنطلونات وشورتات جيرلي",
-                "category": "gid://shopify/Collection/452598694128",
-                "children": []
               }
             ]
           },
@@ -1774,26 +1744,9 @@
             "children": []
           },
           {
-            "id": "1790162306442",
-            "title": "ملابس تريكو",
-            "category": "gid://shopify/Collection/404700692720",
-            "children": []
-          },
-          {
-            "id": "1783435409507",
-            "title": "كولكشن للحوامل",
-            "category": "gid://shopify/Collection/491148607705"
-          },
-          {
             "id": "1783463747550",
             "title": "طقّمي ووّفري",
             "category": "gid://shopify/Collection/444634890480",
-            "children": []
-          },
-          {
-            "id": "1783463767065",
-            "title": "كارينا  🎀 نوت فاوند",
-            "category": "gid://shopify/Collection/439871701232",
             "children": []
           }
         ]
@@ -1806,26 +1759,20 @@
         "children": [
           {
             "id": "1783463576984",
-            "title": "توبات",
+            "title": "توبات مريحة رياضية",
             "category": "gid://shopify/Collection/404705968368",
             "children": []
           },
           {
             "id": "1783463584651",
-            "title": "بنطلونات",
+            "title": "بنطلونات مريحة رياضية",
             "category": "gid://shopify/Collection/404706033904",
             "children": []
           },
           {
             "id": "1783463592018",
-            "title": "أطقم",
+            "title": "أطقم مريحة رياضية",
             "category": "gid://shopify/Collection/404705935600",
-            "children": []
-          },
-          {
-            "id": "1783463599218",
-            "title": "ملابس رياضية",
-            "category": "gid://shopify/Collection/469246607600",
             "children": []
           }
         ]
@@ -1882,12 +1829,6 @@
                 "title": "أطقم بانتيهات ",
                 "category": "gid://shopify/Collection/480487506160",
                 "children": []
-              },
-              {
-                "id": "1783464404675",
-                "title": "بانتيهات جيرلي",
-                "category": "gid://shopify/Collection/452598792432",
-                "children": []
               }
             ]
           },
@@ -1895,20 +1836,7 @@
             "id": "1783464471192",
             "title": "عبوات موفرة",
             "category": "gid://shopify/Collection/412524118256",
-            "children": [
-              {
-                "id": "1783464512542",
-                "title": " عبوات موفرة نسائية",
-                "category": "gid://shopify/Collection/480519094512",
-                "children": []
-              },
-              {
-                "id": "1783464524407",
-                "title": "عبوات موفرة جيرلي",
-                "category": "gid://shopify/Collection/480519028976",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "id": "1783464578672",
@@ -1953,14 +1881,15 @@
             "title": "أساسيات العروسة",
             "category": "gid://shopify/Collection/480001032432",
             "children": []
-          },
-          {
-            "id": "1783463913122",
-            "title": "ملابس نوم جيرلي",
-            "category": "gid://shopify/Collection/456670118128",
-            "children": []
           }
         ]
+      },
+      {
+        "id": "1783434824694",
+        "title": "أطفال",
+        "category": "gid://shopify/Collection/412125888752",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/KIDS_ICON_9036dc8a-0c55-4adc-912e-a5ed53ff3822.png?v=1792921779",
+        "children": []
       },
       {
         "id": "1783464729117",
@@ -1983,12 +1912,6 @@
                 "id": "1783464783915",
                 "title": "كولونات",
                 "category": "gid://shopify/Collection/476837970160",
-                "children": []
-              },
-              {
-                "id": "1783464789498",
-                "title": "شرابات و كولونات جيرلي",
-                "category": "gid://shopify/Collection/452598825200",
                 "children": []
               }
             ]
@@ -2025,13 +1948,6 @@
             ]
           }
         ]
-      },
-      {
-        "id": "1783434822695",
-        "title": "بينك كوليكشن",
-        "category": "gid://shopify/Collection/491312316633",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
-        "children": []
       }
     ],
     "PromotionPages": [

@@ -1586,12 +1586,6 @@
             "children": []
           },
           {
-            "id": "1787134065982",
-            "title": "New Dresses",
-            "category": "gid://shopify/Collection/446619091184",
-            "children": []
-          },
-          {
             "id": "1787134077930",
             "title": "New Sleepwear",
             "category": "gid://shopify/Collection/446234689776",
@@ -1644,21 +1638,9 @@
             "category": "gid://shopify/Collection/417094992112",
             "children": [
               {
-                "id": "1783435848608",
-                "title": "Tank Top",
-                "category": "gid://shopify/Collection/446236229872",
-                "children": []
-              },
-              {
-                "id": "1783435857140",
-                "title": "Short Sleeve",
-                "category": "gid://shopify/Collection/446236197104",
-                "children": []
-              },
-              {
-                "id": "1783435865063",
-                "title": "Cropped",
-                "category": "gid://shopify/Collection/446236295408",
+                "id": "1783435879605",
+                "title": "Seamless",
+                "category": "gid://shopify/Collection/458317463792",
                 "children": []
               },
               {
@@ -1668,15 +1650,15 @@
                 "children": []
               },
               {
-                "id": "1783435879605",
-                "title": "Seamless",
-                "category": "gid://shopify/Collection/458317463792",
+                "id": "1783435857140",
+                "title": "Short Sleeve",
+                "category": "gid://shopify/Collection/446236197104",
                 "children": []
               },
               {
-                "id": "1783435888805",
-                "title": "Carina 🎀 Notfound",
-                "category": "gid://shopify/Collection/439871701232",
+                "id": "1783435848608",
+                "title": "Tank Top",
+                "category": "gid://shopify/Collection/446236229872",
                 "children": []
               }
             ]
@@ -1721,12 +1703,6 @@
                 "title": "T-Shirts",
                 "category": "gid://shopify/Collection/474397704432",
                 "children": []
-              },
-              {
-                "id": "1790162673721",
-                "title": "Girly Tops",
-                "category": "gid://shopify/Collection/452598628592",
-                "children": []
               }
             ]
           },
@@ -1752,12 +1728,6 @@
                 "title": "Skirts",
                 "category": "gid://shopify/Collection/480525222128",
                 "children": []
-              },
-              {
-                "id": "1783463400374",
-                "title": "Girly Bottoms",
-                "category": "gid://shopify/Collection/452598694128",
-                "children": []
               }
             ]
           },
@@ -1780,26 +1750,9 @@
             "children": []
           },
           {
-            "id": "1790162306442",
-            "title": "Knitwear",
-            "category": "gid://shopify/Collection/404700692720",
-            "children": []
-          },
-          {
-            "id": "1783435409507",
-            "title": "Maternity",
-            "category": "gid://shopify/Collection/491148607705"
-          },
-          {
             "id": "1783463747550",
             "title": "Match & Save",
             "category": "gid://shopify/Collection/444634890480",
-            "children": []
-          },
-          {
-            "id": "1783463767065",
-            "title": "Carina 🎀 Notfound",
-            "category": "gid://shopify/Collection/439871701232",
             "children": []
           }
         ]
@@ -1826,12 +1779,6 @@
             "id": "1783463592018",
             "title": "Sets",
             "category": "gid://shopify/Collection/404705935600",
-            "children": []
-          },
-          {
-            "id": "1783463599218",
-            "title": "Workout",
-            "category": "gid://shopify/Collection/469246607600",
             "children": []
           }
         ]
@@ -1888,12 +1835,6 @@
                 "title": "SET",
                 "category": "gid://shopify/Collection/480487506160",
                 "children": []
-              },
-              {
-                "id": "1783464404675",
-                "title": "Girly Panties",
-                "category": "gid://shopify/Collection/452598792432",
-                "children": []
               }
             ]
           },
@@ -1901,20 +1842,7 @@
             "id": "1783464471192",
             "title": "Multipacks",
             "category": "gid://shopify/Collection/412524118256",
-            "children": [
-              {
-                "id": "1783464512542",
-                "title": "Women Multipacks",
-                "category": "gid://shopify/Collection/480519094512",
-                "children": []
-              },
-              {
-                "id": "1783464524407",
-                "title": "Girly Multipacks",
-                "category": "gid://shopify/Collection/480519028976",
-                "children": []
-              }
-            ]
+            "children": []
           },
           {
             "id": "1783464578672",
@@ -1959,14 +1887,15 @@
             "title": "Bridal Essentials",
             "category": "gid://shopify/Collection/480001032432",
             "children": []
-          },
-          {
-            "id": "1783463913122",
-            "title": "Girly Sleepwear",
-            "category": "gid://shopify/Collection/456670118128",
-            "children": []
           }
         ]
+      },
+      {
+        "id": "1783434824694",
+        "title": "KIDS",
+        "category": "gid://shopify/Collection/412125888752",
+        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/KIDS_ICON_9036dc8a-0c55-4adc-912e-a5ed53ff3822.png?v=1792921779",
+        "children": []
       },
       {
         "id": "1783464729117",
@@ -1989,12 +1918,6 @@
                 "id": "1783464783915",
                 "title": "Pantyhose",
                 "category": "gid://shopify/Collection/476837970160",
-                "children": []
-              },
-              {
-                "id": "1783464789498",
-                "title": "Girly Socks & Tights",
-                "category": "gid://shopify/Collection/452598825200",
                 "children": []
               }
             ]
@@ -2031,13 +1954,6 @@
             ]
           }
         ]
-      },
-      {
-        "id": "1783434822695",
-        "title": "Pink Collection",
-        "category": "gid://shopify/Collection/491312316633",
-        "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/pink-app.png?v=1791287341",
-        "children": []
       }
     ],
     "PromotionPages": [

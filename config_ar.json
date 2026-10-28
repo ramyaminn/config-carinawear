@@ -233,7 +233,7 @@
       "hideEmptyProductLayout": false,
       "productListItemHeight": 66,
       "enableAutoSliding": false,
-      "orderby": "none",
+      "orderby": "date",
       "order": "desc"
     },
     {

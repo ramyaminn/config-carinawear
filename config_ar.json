@@ -53,16 +53,19 @@
           "defaultShowProduct": false
         },
         {
-          "key": "",
+          "key": "hzIIUeKYxX",
+          "name": "",
           "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_9a1d640b-dd82-42ad-b2c6-3c1190e10f6a.png?v=1791124483&width=800",
+          "image": "https://carina.eg/cdn/shop/files/Artboard_1_copy_2_e8a0f439-6d94-4d40-8121-605339af9bfa.jpg?v=1793536143&width=800",
           "video": "",
-          "category": "gid://shopify/Collection/412250833136",
+          "category": "gid://shopify/Collection/491148607705",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false
+          "defaultShowProduct": false,
+          "productCategoryMenuStyle": "menu",
+          "allowFilterMultipleCategory": false
         },
         {
           "key": "vdyTKUOnFL",
@@ -87,21 +90,6 @@
           "showSubcategory": false,
           "bannerWithProduct": false,
           "defaultShowProduct": false
-        },
-        {
-          "key": "hzIIUeKYxX",
-          "name": "Ramadan Collection",
-          "type": "image",
-          "image": "https://carina.eg/cdn/shop/files/Banner_post_7-10-2026_3.jpg?v=1791377175&width=800",
-          "video": "",
-          "category": "gid://shopify/Collection/491148607705",
-          "products": [],
-          "productLength": 3,
-          "showSubcategory": false,
-          "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "productCategoryMenuStyle": "menu",
-          "allowFilterMultipleCategory": false
         },
         {
           "key": "rUaTgjLCzy",
@@ -280,8 +268,8 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "Formal Collection",
-          "name": "Formal Collection",
+          "title": "كولكشن الفورمال",
+          "name": "كولكشن الفورمال",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/Untitled-1_formal_copy.jpg?v=1791711773&width=600",
@@ -300,13 +288,13 @@
         {
           "originalColor": false,
           "backgroundColor": null,
-          "title": "بونشو",
-          "name": "بونشو",
+          "title": "ملابس تريكو",
+          "name": "ملابس تريكو",
           "keepDefaultTitle": false,
           "colors": null,
           "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01857.jpg?v=1790848910&width=600",
           "tag": null,
-          "category": "gid://shopify/Collection/445474701552",
+          "category": "gid://shopify/Collection/404700692720",
           "showDescription": false,
           "productType": false,
           "orderby": null,
@@ -612,7 +600,7 @@
           "name": "ملابس النوم",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/SELECTED_DSC01531.jpg?v=1790848439&width=800",
+          "image": "https://carina.eg/cdn/shop/files/1_38e5c9a0-f13a-46fe-adff-c419c06caf38.jpg?v=1793528701&width=800",
           "tag": null,
           "category": "gid://shopify/Collection/404701446384",
           "showDescription": false,

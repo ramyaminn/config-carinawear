@@ -373,7 +373,7 @@
           "name": "New Arrivals",
           "keepDefaultTitle": false,
           "colors": null,
-          "image": "https://carina.eg/cdn/shop/files/Untitled-3_photoblock_copy.jpg?v=1791357670&width=1200",
+          "image": "https://carina.eg/cdn/shop/files/Untitled-1_new_copy.jpg?v=1793701569&width=1200",
           "tag": null,
           "category": "gid://shopify/Collection/412250833136",
           "showDescription": false,
@@ -1779,6 +1779,12 @@
             "id": "1783463592018",
             "title": "Sets",
             "category": "gid://shopify/Collection/404705935600",
+            "children": []
+          },
+          {
+            "id": "1783463592118",
+            "title": "Sportswear",
+            "category": "gid://shopify/Collection/469246607600",
             "children": []
           }
         ]

@@ -311,7 +311,6 @@
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/MOBILE_2_1012a186-9d72-4473-80e6-270739edfdd7.png?v=1793803236&width=800",
           "video": "",
-          "category": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
@@ -328,9 +327,7 @@
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "productCategoryMenuStyle": "menu",
-          "allowFilterMultipleCategory": false
+          "defaultShowProduct": false
         },
         {
           "key": "rUaTgjLCzy",

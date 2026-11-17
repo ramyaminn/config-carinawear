@@ -300,7 +300,6 @@
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/MOBILE_3_6bef4a6d-35c2-46c9-b525-e93f2b5e556b.png?v=1793803213&width=800",
           "video": "",
-          "category": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
@@ -319,8 +318,7 @@
           "defaultShowProduct": false
         },
         {
-          "key": "hzIIUeKYxX",
-          "name": "",
+          "key": "",
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/MOBILE_1_b8bc08bc-f4b5-406e-bee2-0bb9dc834efe.png?v=1793803262&width=800",
           "video": "",
@@ -328,9 +326,7 @@
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "productCategoryMenuStyle": "menu",
-          "allowFilterMultipleCategory": false
+          "defaultShowProduct": false
         },
         {
           "key": "rUaTgjLCzy",

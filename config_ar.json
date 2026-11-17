@@ -118,7 +118,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 10,
+      "height": 5,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -401,7 +401,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 20,
+      "height": 10,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null

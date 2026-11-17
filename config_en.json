@@ -118,7 +118,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 10,
+      "height": 5,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -186,7 +186,7 @@
       "order": "desc"
     },
     {
-      "height": 20,
+      "height": 15,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null
@@ -294,7 +294,9 @@
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false
+          "defaultShowProduct": false,
+          "onTap": false,
+          "enableClick": false
         },
         {
           "key": "",
@@ -401,7 +403,7 @@
       "pageIndicatorType": "circle"
     },
     {
-      "height": 20,
+      "height": 10,
       "layout": "spacer",
       "useLightColor": false,
       "backgroundColor": null

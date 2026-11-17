@@ -289,7 +289,6 @@
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/SOUHOOLA_app_16-11-2026.jpg?v=1794911829&width=1000",
           "video": "",
-          "category": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
@@ -301,7 +300,6 @@
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/MOBILE_3_6bef4a6d-35c2-46c9-b525-e93f2b5e556b.png?v=1793803213&width=800",
           "video": "",
-          "category": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
@@ -326,7 +324,6 @@
           "type": "image",
           "image": "https://carina.eg/cdn/shop/files/MOBILE_1_b8bc08bc-f4b5-406e-bee2-0bb9dc834efe.png?v=1793803262&width=800",
           "video": "",
-          "category": "",
           "products": [],
           "productLength": 3,
           "showSubcategory": false,
@@ -344,8 +341,7 @@
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "category": ""
+          "defaultShowProduct": false
         }
       ],
       "marginBottom": 0,

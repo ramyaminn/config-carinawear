@@ -333,6 +333,18 @@
           "defaultShowProduct": false,
           "productCategoryMenuStyle": "menu",
           "allowFilterMultipleCategory": false
+        },
+        {
+          "key": "rUaTgjLCzy",
+          "type": "image",
+          "image": "https://carina.eg/cdn/shop/files/Free_shipping__banner_6-10-2026_1.jpg?v=1791285510&width=800",
+          "video": "",
+          "products": [],
+          "productLength": 3,
+          "showSubcategory": false,
+          "bannerWithProduct": false,
+          "defaultShowProduct": false,
+          "category": ""
         }
       ],
       "marginBottom": 0,

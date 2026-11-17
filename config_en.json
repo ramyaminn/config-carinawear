@@ -343,8 +343,7 @@
           "productLength": 3,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "defaultShowProduct": false,
-          "category": ""
+          "defaultShowProduct": false
         }
       ],
       "marginBottom": 0,

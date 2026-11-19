@@ -1724,6 +1724,12 @@
             "children": []
           },
           {
+            "id": "1783463553615",
+            "title": "فورمال",
+            "category": "gid://shopify/Collection/491651465433",
+            "children": []
+          },
+          {
             "id": "1783463747550",
             "title": "طقّمي ووّفري",
             "category": "gid://shopify/Collection/444634890480",
@@ -1944,19 +1950,19 @@
         "cards": [
           {
             "title": "حصرياً أونلاين !",
-            "subtitle": "حتى 60% على الملابس الداخلية",
+            "subtitle": "حتى 70% على الملابس الداخلية",
             "image": "https://cdn.shopify.com/s/files/1/0616/1298/2512/files/image2_app.png?v=1788349779",
             "collection": "gid://shopify/Collection/493352485081"
           },
           {
             "title": "متفوتيش الفرصة !",
-            "subtitle": "حتى 60% على التوبات الأساسية",
+            "subtitle": "حتى 70% على التوبات الأساسية",
             "image": "https://carina.eg/cdn/shop/files/za2026-09-01_150922_22copy_870x.jpg?v=1788344423",
             "collection": "gid://shopify/Collection/493352386777"
           },
           {
             "title": "لفترة محدودة !",
-            "subtitle": "حتى 60% على ملابس النوم",
+            "subtitle": "حتى 70% على ملابس النوم",
             "image": "https://carina.eg/cdn/shop/files/desktop_master_visual_1000x.webp?v=1780843203",
             "collection": "gid://shopify/Collection/493352616153"
           }
